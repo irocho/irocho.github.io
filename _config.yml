@@ -1,3 +1,4 @@
 name: i-rochiño
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+jekyll-sitemap
