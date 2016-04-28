@@ -8,3 +8,4 @@ Lembrar que para ver o [blog](https://irocho.github.io/blog)
 Este é o intento de aprender a usar jekyll coa axuda de 
 http://jmcglone.com/guides/github-pages/
 https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
+http://www.abstractclass.org/tutorial/blog/2015/05/19/tutorial-personal-blog-with-github.html
