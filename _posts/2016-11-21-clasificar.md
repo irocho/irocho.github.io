@@ -8,9 +8,9 @@ date: 2016-11-21
 
 Faise a clasificación tendo en conta:
 
-*  Número de usuarios
-*  Número de procesos
-*  Número de procesadores
-*  Tempo de resposta
-*  Estructura dos compoñentes
-*  Interación entre sistemas operativos
+* Número de usuarios
+* Número de procesos
+* Número de procesadores
+* Tempo de resposta
+* Estructura dos compoñentes
+* Interación entre sistemas operativos
