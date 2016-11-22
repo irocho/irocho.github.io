@@ -21,9 +21,11 @@
 		<div class="container">
     	{{ content }}
 		<br>
-		  <a href="{{  site.baseurl }}{{  page.previous.url }}">
-				<img src="/imaxes/anterior.png" style="width:32px;height:32px;border:0;" alt="" />
-			</a>
+		{% if page.previous %}
+  				<a href="{{  site.baseurl }}{{  page.previous.url }}">
+							<img src="/imaxes/anterior.png" style="width:32px;height:32px;border:0;" alt="" />
+						</a>
+			{% endif %}
 
 		</div><!-- /.container -->
 		<footer>
