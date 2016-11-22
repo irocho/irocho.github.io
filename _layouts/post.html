@@ -9,10 +9,10 @@ layout: default
   {{ content }}
 </div>
 
-{% if page.next %}
-  <a href="{{  site.baseurl }}{{  page.next.url }}">Artigo seguinte</a>
+{% if page.previous %}
+  <a href="{{  site.baseurl }}{{  page.previous.url }}"> Artigo anterior </a>
 {% endif %}
 
-{% if page.previous %}
-  <a href="{{  site.baseurl }}{{  page.previous.url }}">Artigo anterior</a>
+{% if page.next %}
+  <a href="{{  site.baseurl }}{{  page.next.url }}"> Artigo seguinte </a>
 {% endif %}
