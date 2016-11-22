@@ -12,5 +12,5 @@ Paseniño foise creando ese software que permite ó programador ocuparse do seu 
 
 Un sistema operativo é ese conxunto de programas que actúan coma intermediario entre o usuario e o hardware do ordenador. Na figura vemos como o sistema operativo sitúase facendo de intermediario entre os dispositivos físicos e as aplicacións de usuario.
 
-![Situación do sistema operativo]({{http://irocho.github.io/imaxes}}}}/imaxes/capas.png)
+![Situación do sistema operativo]({{http://irocho.github.io/}}/imaxes/capas.png)
 ({{ site.url }}/assets/screenshot.jpg)
