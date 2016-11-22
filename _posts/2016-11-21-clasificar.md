@@ -4,7 +4,7 @@ title: "Clasificación de sistemas operativos"
 date: 2016-11-21
 ---
 
-## Clasificación de Sistemas Operativos
+
 
 Faise a clasificación tendo en conta:
 

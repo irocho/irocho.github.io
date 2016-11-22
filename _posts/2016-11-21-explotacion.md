@@ -4,7 +4,7 @@ title: "Modos de explotación"
 date: 2016-11-21
 ---
 
-## Modos de explotación dun Sistema Operativo
+
 
 *  Proceso por lotes (batch):
 

@@ -3,7 +3,7 @@ layout: post
 title: "Compoñentes dun sistema operativo "
 date: 2016-11-21
 ---
-## Compoñentes dun sistema operativo
+
 
 Cando se prende un ordenador cárgase parte do kernel do  sistema operativo en memoria. Espértase ó ordenador para que recoñeza á CPU, a memoria, as unidades de disco e calquera outro dispositivo conectado sexa o teclado, o rato ou a impresora. Verifícase que no existan erros de conexión e que todos os dispositivos estean preparados para traballar axeitadamente. A este primeiro diagnóstico chámaselle POST.
 
