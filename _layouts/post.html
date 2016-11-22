@@ -8,14 +8,3 @@ layout: default
 <div class="post">
   {{ content }}
 </div>
-<figure>
-  <img src="anterior.png" style="width:32px;height:32px;border:0;">
-</figure>
-<hr>
-{% if page.previous %}
-  <a href="{{  site.baseurl }}{{  page.previous.url }}">  </a>
-{% endif %}
-
-{% if page.next %}
-  <a href="{{  site.baseurl }}{{  page.next.url }}"> ... ... Artigo seguinte </a>
-{% endif %}
