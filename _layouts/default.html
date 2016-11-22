@@ -26,6 +26,11 @@
 							<img src="/imaxes/anterior.png" style="width:32px;height:32px;border:0;" alt="" />
 						</a>
 			{% endif %}
+			{% if page.next %}
+			  <a href="{{  site.baseurl }}{{  page.next.url }}">
+					<img src="/imaxes/seguinte.png" style="width:32px;height:32px;border:0;" alt="" />
+				 </a>
+			{% endif %}
 
 		</div><!-- /.container -->
 		<footer>
