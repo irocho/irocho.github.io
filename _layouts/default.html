@@ -14,7 +14,7 @@
         		<li><a href="irocho.wordpress.com">Páxina en wordpress de i-rochiño </a></li>
 	        	<li><a href="https://medium.com/@irocho">Páxinas de idiomas</a></li>
         		<li><a href="/cv">CV</a></li>
-        		
+
     		</ul>
 		</nav>
 		<hr>
@@ -22,6 +22,18 @@
 
     	{{ content }}
 		<br>
+		<figure>
+		  <img src="anterior.png" style="width:32px;height:32px;border:0;">
+		</figure>
+		<hr>
+		{% if page.previous %}
+		  <a href="{{  site.baseurl }}{{  page.previous.url }}">  </a>
+		{% endif %}
+
+		{% if page.next %}
+		  <a href="{{  site.baseurl }}{{  page.next.url }}"> ... ... Artigo seguinte </a>
+		{% endif %}
+
 		</div><!-- /.container -->
 		<footer>
     		<ul>
