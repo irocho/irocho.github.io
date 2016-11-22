@@ -13,4 +13,4 @@ date: 2016-11-21
 		*  xenerar resultados
 
 *  Procesos en tempo real   :
-Datos no dispositivo e obtense a resposta no momento
+Datos no dispositivo. Obtense a resposta no momento
