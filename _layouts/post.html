@@ -8,3 +8,11 @@ layout: default
 <div class="post">
   {{ content }}
 </div>
+
+{% if page.next %}
+  <a href="{{  site.baseurl }}{{  page.next.url }}">Artículo posterior</a>
+{% endif %}
+
+{% if page.previous %}
+  <a href="{{  site.baseurl }}{{  page.previous.url }}">Artículo anterior</a>
+{% endif %}
