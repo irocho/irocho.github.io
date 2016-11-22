@@ -22,21 +22,22 @@
 
     	{{ content }}
 		<br>
-		<figure>
-		  <img src="anterior.png" style="width:32px;height:32px;border:0;">
-		</figure>
-		<hr>
-		{% if page.previous %}
-		  <a href="{{  site.baseurl }}{{  page.previous.url }}">  </a>
-		{% endif %}
-
-		{% if page.next %}
-		  <a href="{{  site.baseurl }}{{  page.next.url }}"> ... ... Artigo seguinte </a>
-		{% endif %}
 
 		</div><!-- /.container -->
 		<footer>
     		<ul>
+						<li><figure>
+						  <img src="anterior.png" style="width:32px;height:32px;border:0;">
+						</figure>
+
+						{% if page.previous %}
+						  <a href="{{  site.baseurl }}{{  page.previous.url }}">  </a>
+						{% endif %}
+
+						<li> {% if page.next %}
+						  <a href="{{  site.baseurl }}{{  page.next.url }}"> ... ... Artigo seguinte </a>
+						{% endif %}
+
         		<li><a href="https://github.com/irocho/irocho.github.io/wiki">wiki</a></li>
         		<li><a href="https://github.com/irocho">github</a></li>
         		<li><a href="http://irocho.github.io/blog/atom.xml">Subscribirse con RSS</a></li>
