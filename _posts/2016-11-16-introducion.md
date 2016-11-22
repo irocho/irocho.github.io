@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introdución ós sistemas operativos"
-date: 2016-11-21
+date: 2016-11-16
 ---
 
 ![Situación do sistema operativo]({{http://irocho.github.io/}}/imaxes/capas.png)
