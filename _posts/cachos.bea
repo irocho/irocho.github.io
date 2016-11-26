@@ -1,8 +1,19 @@
 ---
 layout: post
-title: "EstaBoa"
+title: "  EstaBoa  "
 date: 2016-04-21
+plugin: markdown.rb
 ---
+<div class="tab">
+    {% capture my-include %}
+    {% include kkkk.txt %}
+    {% endcapture %}
+    {{ my-include | markdownify }}
+</div>
+
+
+
+
 {% if page.previous %}
   <a href="{{  site.baseurl }}{{  page.previous.url }}">   <img src="anterior.png" style="width:32px;height:32px;border:0;"> </a>
 {% endif %}
