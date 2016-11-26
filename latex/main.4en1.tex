@@ -1,0 +1,21 @@
+%---------------------------------------------------------------------
+%   pdf para imprimir indo de pregunta en pregunta
+%---------------------------------------------------------------------
+
+%    Pasa do que non estea entre frame
+ \documentclass[handout,ignorenonframetext]{beamer}
+% \documentclass[trans,ignorenonframetext]{beamer}
+
+%---------------------------------------------------------------------
+    %%%   Un folio con 4 diapos chiquitinas
+ %---------------------------------------------------------------------
+\usepackage{pgfpages}
+\pgfpagesuselayout{4 on 1}[a4paper,landscape,border shrink=5mm]
+%\pgfpagesuselayout{8 on 1}[a4paper,border shrink=5mm]
+
+%---------------------------------------------------------------------
+%Trae o contido
+%---------------------------------------------------------------------
+
+\input{main}
+

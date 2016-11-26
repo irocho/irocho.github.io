@@ -1,0 +1,75 @@
+%---------------------------------------------------------------------
+%   pdf para imprimir o contido
+%---------------------------------------------------------------------
+\documentclass[twoside,a4paper]{article} 		% non deixa amsart   twocolumn,
+
+%---------------------------------------------------------------------------------------------
+ %  Paquete para que faga artigo dende algo que ten a pinta beamer
+ %---------------------------------------------------------------------------------------------
+\usepackage{beamerarticle}
+     
+%----------------------------------------------------------------------------------------------------------------
+% Tells the beamer class where to  find the presentation version of the current file.
+%----------------------------------------------------------------------------------------------------------------     
+\setjobnamebeamerversion{main.beamer}
+
+%---------------------------------------------------------------------------------------------------------------- 
+% Cabeceira e pe de páxina
+%---------------------------------------------------------------------------------------------------------------- 
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\pagestyle{fancy} 
+\fancyhf{}
+\fancyhead[RE,LO]{ \includegraphics[width=\linewidth,width=2cm]{debuxos/i-rocho.png} }
+\fancyhead[LE,RO]{\scshape \scriptsize \titulito}
+\cfoot{\scshape \small Páxina \thepage ~de~ \pageref{LastPage}}
+\renewcommand{\headrulewidth}{0.1pt}
+
+%----------------------------------------------------------------------------------------------------------------
+% Pinta no folio
+%---------------------------------------------------------------------------------------------------------------- 
+
+%   Interespaciado
+\renewcommand{\baselinestretch}{1}
+\linespread{2}
+
+%% Marxes
+\usepackage[a4paper]{geometry}
+\newgeometry{top=2cm,left=2cm,right=2cm,bottom=2cm}   
+
+\input{paquetes}
+%---------------------------------------------------------------------
+% Título chulo con logo
+%---------------------------------------------------------------------
+\title{ \raggedright
+  \includegraphics[width=\linewidth,width=4cm]{debuxos/i-rocho.png} 
+    \\
+    \centering 
+    \titulito
+    }
+
+%%-------------------------------------------------------------------
+% Para poder facer \begin{diapo}...\end{diapo}
+%---------------------------------------------------------------------
+\newenvironment{diapo}
+{	
+	%\vspace{0.5cm}  				%ou queda pegañado ó texto
+	\linespread{1}
+	\sffamily						%respostas en sans serif
+	\noindent 	
+	\begin{Sbox}					%comeza facer recadro
+	\begin{minipage}[t]{0.48\textwidth} 	%recadro ocupa a metade 
+}
+{
+\end{minipage}
+\end{Sbox}\shadowbox{\TheSbox}		%pinta recadro sombreado
+%\vspace{0.2cm}						%ou queda pegañado ó texto
+}
+
+
+
+%---------------------------------------------------------------------
+%Trae o contido: o dos frame e o de fóra
+%---------------------------------------------------------------------
+\input{main}
+

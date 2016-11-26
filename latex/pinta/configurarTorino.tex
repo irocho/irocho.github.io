@@ -1,0 +1,36 @@
+\usepackage[spanish,galician]{babel}
+\usepackage[utf8]{inputenc}     
+\usepackage{graphicx}
+%%---------------------------------------------------------------------
+%%   Uso propiedades do Torino
+%%---------------------------------------------------------------------
+
+\usetheme[pageofpages=de,			%  1 de 15         
+	bullet=square,					% Use circles instead of squares for bullets.
+	titleline=true,					% Show a line below the frame title.
+	alternativetitlepage=true, 			% Use the fancy title page.
+	titlepagelogo=debuxos/i_logo.png,	% Logo for the first page: i grandota
+          ]{Torino}
+
+%%---------------------------------------------------------------------
+%%  Escoller cores
+%%---------------------------------------------------------------------    
+\usecolortheme{chameleon}	%verde
+%\usecolortheme{freewilly}  	%morado
+%\usecolortheme{nouvelle} 	%banda vermella
+             
+%%---------------------------------------------------------------------
+%%  Portada. Vai onde poña \maketitle
+%%---------------------------------------------------------------------
+\logo{\includegraphics[height=0.4cm]{debuxos/logo.png}}	%cada diapo arriba á dereita
+
+\title{ \titulito}
+\date{}
+\institute{\asignatura }
+
+%%---------------------------------------------------------------------
+%%  Trae contido
+%%---------------------------------------------------------------------
+
+\input{main.tex}
+

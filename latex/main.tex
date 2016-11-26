@@ -1,0 +1,129 @@
+%---------------------------------------------------------------------------------------------
+ %  Contido :
+ %        diapos con:  \begin{diapo}..... \end{diapo}
+ % 	    texto que vai saír por impresora: fóra dos frame
+ %        notas íntimas que podo imprimir á parte \note{}
+ %---------------------------------------------------------------------------------------------
+ 
+% Lembrar non \documentclass.... 
+
+%---------------------------------------------------------------------------------------------
+ %  Paquetería común 
+  %---------------------------------------------------------------------------------------------
+\usepackage[spanish,galician]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+%\usepackage{epsfig} 	% for figures
+%\usepackage{xcolor} 	% for color
+%\usepackage{amssymb,amsmath}
+
+%   Simple ou dobre columna
+ \usepackage{multicol}
+
+%ligazóns
+\usepackage{hyperref}	
+
+%----------------------------------------------------------------------------------------------------------------
+%  Títulos
+%---------------------------------------------------------------------------------------------------------------- 
+\newcommand{\titulito}{
+Caracterización de Sistemas Operativos
+}
+\subtitle{
+Cuestións sen resposta en contexto
+}
+\newcommand{\asignatura}{
+Sistemas Operativos Monoposto
+%Montaxe e Mantemento
+}
+
+
+\begin{document}
+%----------------------------------------------------------------------------------------------------------------
+%  Títulos segundo o tipo de documento
+%---------------------------------------------------------------------------------------------------------------- 
+\mode <beamer>{
+\begin{frame}
+\maketitle
+\end{frame}
+}
+% o título queda máis chulo sen ser a dúas columnas
+\mode <article>{
+\maketitle
+}
+%----------------------------------------------------------------------------------------------------------------
+% Contido
+%---------------------------------------------------------------------------------------------------------------- 
+%\abstract{			}%sae no main. article
+
+\input{cachos/introducion.tex}
+
+\newpage
+
+\section{Funcións dun sistema operativo}
+\input{cachos/funcions.tex}
+
+\section{Modos de operación}
+\input{cachos/modos.tex}
+%%
+
+\section{Compoñentes dun sistema operativo}
+\input{cachos/modos.tex}
+
+
+
+\newpage
+\section{Procesos e fíos}
+\input{cachos/procesos.tex}
+
+%---------------------------------------------------------------------------------------------
+%  Referencias e índice 
+%---------------------------------------------------------------------------------------------
+%\clearpage
+%\begin{thebibliography}{1}
+%	\bibitem{sanclemente} Apuntes do Instituto San Clemente  https://manuais.iessanclemente.net/index.php/Introdución_aos_Sistemas_Operativos
+%	\bibitem {RaMa}
+%	Laura Raya, Miguel A. Martínez, Sistemas Operativos Monopuesto. Editorial RaMa
+%\end{thebibliography}
+\tableofcontents
+
+
+\end{document}
+
+%\note{       }
+
+%\begin{figure}
+%\includegraphics{./debuxos/micro.png}
+%\end{figure}
+
+%
+%
+%\begin{frame}{ Linux \dots}
+%\begin{enumerate}
+%	\item  
+%	\pause
+%	\item 
+%	\pause
+%	\item  
+%	\pause
+%	\item       
+%\end{enumerate} 
+%\end{frame} 
+%\end{diapo} 
+%
+%
+%
+\begin{diapo} \begin{frame}{ operativo   \dots} 
+\begin{enumerate}
+	\item hardware\pause
+	\item software \pause
+	\item malware 
+\end{enumerate} \end{frame}  \end{diapo}  
+%parella
+\begin{diapo}\begin{frame}{ hardware   \dots}
+\begin{enumerate}
+	\item drivers \pause
+	\item terminais \pause
+	\item sistemas 
+\end{enumerate} \end{frame} \end{diapo}
+

@@ -1,0 +1,50 @@
+%---------------------------------------------------------------------
+%   pdf para imprimir o tipo test
+%---------------------------------------------------------------------
+\documentclass[twocolumns,a4paper]{article} 		% non deixa amsart
+\usepackage{fullpage}
+
+%---------------------------------------------------------------------------------------------
+ %  Paquete para que faga artigo dende algo que ten a pinta beamer
+ %---------------------------------------------------------------------------------------------
+\usepackage{beamerarticle}
+     
+%----------------------------------------------------------------------------------------------------------------
+% Tells the beamer class where to  find the presentation version of the current file.
+%----------------------------------------------------------------------------------------------------------------     
+\setjobnamebeamerversion{main.beamer}
+
+%----------------------------------------------------------------------------------------------------------------
+% Pinta no folio
+%---------------------------------------------------------------------------------------------------------------- 
+     
+%   Interespaciado
+\renewcommand{\baselinestretch}{1}
+\linespread{1}
+
+%% Marxes
+\usepackage[a4paper]{geometry}
+\newgeometry{top=0.1cm,left=2cm,right=2cm,bottom=2cm}   
+
+%%-------------------------------------------------------------------
+% Para poder facer \begin{diapo}...\end{diapo}
+%---------------------------------------------------------------------
+\newenvironment{diapo}
+{}{}
+
+%---------------------------------------------------------------------
+% Título chulo con logo
+%---------------------------------------------------------------------
+\title{\raggedright \makebox[\textwidth]{ \small Nome: \enspace \hrulefill}   
+ 	\centering 
+   	\small \textsc{\titulito}
+    }
+
+\input{paquetes}
+\author{}
+
+%---------------------------------------------------------------------
+%Trae o contido: o dos frame e o de fóra
+%---------------------------------------------------------------------
+\input{main.tex}
+
