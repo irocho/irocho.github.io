@@ -1,8 +1,8 @@
-Un proceso é un programa en execución. Cada proceso componse do código
+<div>Un proceso é un programa en execución. Cada proceso componse do código
 que se executa e a correspondente estructura de datos. Ambos estarán
 cargados en memoria e terán uns recursos asignados: espacio en memoria,
 uso da CPU, etc. O sistema operativo é o encargado de controlar a
-execución.\
+execución.
 
 <span>Un proceso é …</span>
 
@@ -194,5 +194,3 @@ executar un fío sen ter que agardar que se execute un tras outro.\
 2.  obtemos un certo paralelismo
 
 3.  todas as respostas son correctas
-
-
