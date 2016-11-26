@@ -4,5 +4,5 @@ mv ./latex/cachos/*.md ./_includes/
 echo ....
 git commit -a
 git push
-got status
+git status
 git log | head -n 5
