@@ -6,7 +6,7 @@ plugin: markdown.rb
 ---
 <div class="tab">
     {% capture my-include %}
-    {% include clasificacion.txt %}
+    {% include clasificacion.md %}
     {% endcapture %}
     {{ my-include | markdownify }}
 </div>

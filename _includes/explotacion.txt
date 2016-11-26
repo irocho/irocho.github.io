@@ -1,9 +1,0 @@
-*  Proceso por lotes (batch):
-
-> *  introducir datos
-> *  procesado de datos
-> *  xenerar resultados
-
-
-*  Procesos en tempo real   :
-Datos no dispositivo e obtense a resposta no momento
