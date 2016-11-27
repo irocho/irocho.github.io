@@ -51,4 +51,8 @@ span {
   list-style: none;
   font-weight: bold;
   font-size: 0.9em
+  width: 300px;
+    height: 100px;
+    border: 1px solid blue;
+    box-sizing: border-box;
 }
