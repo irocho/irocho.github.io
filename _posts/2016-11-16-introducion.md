@@ -4,9 +4,7 @@ title: "Introdución ós sistemas operativos"
 date: 2016-11-16
 plugin: markdown
 ---
-dsfasdf    {% capture my-include %}
+dsfasdf    
     {% include introducion.md %}
-    {% endcapture %}
-    {{ my-include | markdownify }}
 
 ![Situación do sistema operativo]({{http://irocho.github.io/}}/imaxes/capas.png)
