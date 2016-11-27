@@ -39,7 +39,7 @@ ul.posts {
 }
 
 ol.posts li {
-  font-size: 0.8em
+  font-size: 0.7em
   font-family:'Serif';
 }
 
@@ -55,5 +55,5 @@ span {
   padding: 0px;
   list-style: none;
   font-weight: bold;
-  font-size: 0.9em
+  font-size: 0.8em
 }
