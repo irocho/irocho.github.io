@@ -7,13 +7,15 @@ de calquera máquina na que estea instalado o mesmo sistema operativo. O
 sistema operativo é xa que logo o organizador e o xestor de todo o que
 se fai: o obxectivo é facilitar o uso do ordenador.
 
-<span> Un programa feito para Windows …</span>
+<span> Un programa feito para Windows …
 
 1.  non se pode executar nun Linux
 
 2.  non se pode executar no MacOS
 
 3.  todas as respostas son correctas
+
+</span>
 
 <span> Se algo é *transparente* ó usuario significa …</span>
 
@@ -31,7 +33,7 @@ Simplificar a relación co usuario:
 
 :   Sexa cunha interfaz modo texto ou modo gráfico.
 
-Controlar a execución dos programas: 
+Controlar a execución dos programas:
 
 :   Aceptar os traballos, administrar o xeito no que se realizan,
     asignar recursos e finalízalos cando cómpra.
@@ -126,5 +128,3 @@ Control de erros:
 3.  executar servizos para os programas
 
 4.  todas as respostas son correctas
-
-
