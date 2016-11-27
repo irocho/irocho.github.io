@@ -1,9 +1,9 @@
-<div>
+
 Un proceso é un programa en execución. Cada proceso componse do código
 que se executa e a correspondente estructura de datos. Ambos estarán
 cargados en memoria e terán uns recursos asignados: espacio en memoria,
 uso da CPU, etc. O sistema operativo é o encargado de controlar a
-execución.<div>
+execución.
 
 <span>Un proceso é …</span>
 
