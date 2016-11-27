@@ -45,3 +45,10 @@ figure {
   float: left;
   margin: 10px 10px 10px 0;
 }
+span {
+  font-family:'Serif';
+  padding: 0px;
+  list-style: none;
+  font-weight: bold;
+  font-size: 0.9em
+}
