@@ -4,9 +4,7 @@ title: "Introdución ós sistemas operativos"
 date: 2016-11-16
 plugin: markdown
 ---
-dsfasdf
-
-    {% capture my-include %}
+dsfasdf    {% capture my-include %}
     {% include introducion.md %}
     {% endcapture %}
     {{ my-include | markdownify }}
