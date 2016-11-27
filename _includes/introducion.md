@@ -1,9 +1,3 @@
-<span>r</span><span>0.5</span>
-
-![image](./debuxos/capas.png)
-
-\[capas\]
-
 Nos anos corenta cando se comezaron a construír ordenadores os
 programadores tiñan que ter en conta as peculiaridades do equipo co que
 traballaban. Non era o mesmo programar para un procesador ou para outro,
@@ -39,5 +33,3 @@ usuario.\
 2.  terminais
 
 3.  sistemas operativos
-
-

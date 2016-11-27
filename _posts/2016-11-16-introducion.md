@@ -10,4 +10,5 @@ plugin: markdown.rb
     {% endcapture %}
     {{ my-include | markdownify }}
 </div>
+adf
 ![Situación do sistema operativo]({{http://irocho.github.io/}}/imaxes/capas.png)
