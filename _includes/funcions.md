@@ -7,15 +7,13 @@ de calquera máquina na que estea instalado o mesmo sistema operativo. O
 sistema operativo é xa que logo o organizador e o xestor de todo o que
 se fai: o obxectivo é facilitar o uso do ordenador.
 
-<span> Un programa feito para Windows …
+<span> Un programa feito para Windows …</span>
 
 1.  non se pode executar nun Linux
 
 2.  non se pode executar no MacOS
 
 3.  todas as respostas son correctas
-
-</span>
 
 <span> Se algo é *transparente* ó usuario significa …</span>
 
