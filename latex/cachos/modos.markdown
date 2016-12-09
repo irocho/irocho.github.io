@@ -20,36 +20,4 @@ de operación: modo kernel e modo usuario.
     se executan neste modo as que afectan especialmento ó control da
     máquina ou as que se encargan da entrada e saída de información
 
-<span>O sistema operativo execútase en modo …</span>
-
--   hardware
-
--   usuario
-
--   supervisor
-
-<span>As instrucións que pode executar un sistema operativo son …</span>
-
-1.  só as funcións do modo aplicación
-
-2.  calquera das instrucións da máquina
-
-3.  un subconxunto das instrucións da máquina
-
-<span>O modo usuario pode executar …</span>
-
-1.  só as funcións do modo aplicación
-
-2.  calquera das instrucións da máquina
-
-3.  un subconxunto das instrucións da máquina
-
-<span>O modo usuario ten prohibido executar …</span>
-
-1.  as instrucións de control da máquina
-
-2.  as instrucións de entrada/ saída
-
-3.  todas as respostas son correctas
-
 

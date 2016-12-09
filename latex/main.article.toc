@@ -2,4 +2,4 @@
 \contentsline {section}{\numberline {1}Funci\IeC {\'o}ns dun sistema operativo}{2}{section.1}
 \contentsline {section}{\numberline {2}Modos de operaci\IeC {\'o}n}{3}{section.2}
 \contentsline {section}{\numberline {3}Compo\IeC {\~n}entes dun sistema operativo}{4}{section.3}
-\contentsline {section}{\numberline {4}Procesos e f\IeC {\'\i }os}{5}{section.4}
+\contentsline {section}{\numberline {4}Procesos e f\IeC {\'\i }os}{6}{section.4}

@@ -2,7 +2,8 @@
 %   pdf para imprimir o contido
 %---------------------------------------------------------------------
 \documentclass[twoside,a4paper]{article} 		% non deixa amsart   twocolumn,
-
+\usepackage[spanish,galician]{babel}
+\usepackage[utf8]{inputenc}
 %---------------------------------------------------------------------------------------------
  %  Paquete para que faga artigo dende algo que ten a pinta beamer
  %---------------------------------------------------------------------------------------------
@@ -28,7 +29,6 @@
 %----------------------------------------------------------------------------------------------------------------
 % Pinta no folio
 %---------------------------------------------------------------------------------------------------------------- 
-
 %   Interespaciado
 \renewcommand{\baselinestretch}{1}
 \linespread{2}
@@ -37,7 +37,12 @@
 \usepackage[a4paper]{geometry}
 \newgeometry{top=2cm,left=2cm,right=2cm,bottom=2cm}   
 
+
+%---------------------------------------------------------------------
+% Lista de paquetes ó mogolón
+%---------------------------------------------------------------------
 \input{paquetes}
+
 %---------------------------------------------------------------------
 % Título chulo con logo
 %---------------------------------------------------------------------
@@ -61,9 +66,9 @@
 	\begin{minipage}[t]{0.48\textwidth} 	%recadro ocupa a metade 
 }
 {
-\end{minipage}
-\end{Sbox}\shadowbox{\TheSbox}		%pinta recadro sombreado
-%\vspace{0.2cm}						%ou queda pegañado ó texto
+	\end{minipage}
+	\end{Sbox}\shadowbox{\TheSbox}		%pinta recadro sombreado
+	%\vspace{0.2cm}						%ou queda pegañado ó texto
 }
 
 
