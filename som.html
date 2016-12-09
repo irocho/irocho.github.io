@@ -1,0 +1,9 @@
+---
+layout: page
+title: Sistemas Operativos Monoposto
+---
+{% for som in site.som %}
+	<div class="som">
+		<h2><a href="{{ som.url }}">{{ som.title }}</a></h2>
+	</div>
+{% endfor %}
