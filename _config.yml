@@ -3,6 +3,7 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 collections:
   som:
-    output:true
+    output : true
+    permalink : /som/:path/
 gems:
   - jekyll-sitemap
