@@ -19,24 +19,25 @@
 		</nav>
 		<hr>
 		<div class="container">
-    	{{ content }}
-		<br>
-		<div align=center><!-- /.frechas -->
-			{% if page.previous %}
-  				<a href="{{  site.baseurl }}{{  page.previous.url }}">
-							<img src="/imaxes/anterior.png" style="width:32px;height:32px;border:0;" alt="" />
-						</a>
-			{% endif %}
-			&nbsp;&nbsp;
-			<a href="http://irocho.github.io/blog">
-					<img src="/imaxes/home-xxl.png" style="width:32px;height:32px;border:0;" alt="" />
-			&nbsp;&nbsp;
-			{% if page.next %}
-			  <a href="{{  site.baseurl }}{{  page.next.url }}">
-					<img src="/imaxes/seguinte.png" style="width:32px;height:32px;border:0;" alt="" />
-				 </a>
-			{% endif %}
-		</div>
+
+				<br>
+				<div align=center><!-- /.frechas -->
+					{% if page.previous %}
+		  				<a href="{{  site.baseurl }}{{  page.previous.url }}">
+									<img src="/imaxes/anterior.png" style="width:32px;height:32px;border:0;" alt="" />
+								</a>
+					{% endif %}
+					&nbsp;&nbsp;
+					<a href="http://irocho.github.io/blog">
+							<img src="/imaxes/home-xxl.png" style="width:32px;height:32px;border:0;" alt="" />
+					&nbsp;&nbsp;
+					{% if page.next %}
+					  <a href="{{  site.baseurl }}{{  page.next.url }}">
+							<img src="/imaxes/seguinte.png" style="width:32px;height:32px;border:0;" alt="" />
+						 </a>
+					{% endif %}
+					</div> <!-- /.frechas -->
+	    	{{ content }}
 		</div><!-- /.container -->
 		<footer>
 			<ul>

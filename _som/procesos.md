@@ -1,3 +1,7 @@
+---
+layout: som
+title: Procesos e fíos
+---
 Un proceso é un programa en execución. Cada proceso componse do código
 que se executa e a correspondente estructura de datos. Ambos estarán
 cargados en memoria e terán uns recursos asignados: espacio en memoria,

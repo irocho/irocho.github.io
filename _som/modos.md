@@ -1,3 +1,9 @@
+---
+layout: som
+title: Modos de operación
+---
+
+
 Se por calquera razón un programa precisa o uso do hardware directamente
 pódese inserir unhas liñas de código para acceder a funcións concretas
 que se denominan *chamadas ó sistema*. Son os fabricantes os que
