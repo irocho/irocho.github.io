@@ -5,5 +5,8 @@ collections:
   som:
     output : true
     permalink : /som/:path/
+  montaxe:
+    output : true
+    permalink : /montaxe/:path/
 gems:
   - jekyll-sitemap

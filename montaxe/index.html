@@ -1,0 +1,11 @@
+---
+layout: page
+title: montaxe
+---
+<h2>Índice de anotacións de montaxe de sistemas</h2>
+
+{% for montaxe in site.montaxe %}
+	<div class="montaxe">
+	   <h2><a href="{{ montaxe.url }}">{{ montaxe.title }}</a></h2>
+	</div>
+{% endfor %}
