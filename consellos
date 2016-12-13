@@ -1,3 +1,9 @@
+
+===============
+[   ]({{site.url}}/som/autodiagnostico)
+
+
+===============
 <div align=center><!-- /.frechas -->
   {% if page.previous %}
       <a href="{{  site.baseurl }}{{  page.previous.url }}">
@@ -15,3 +21,28 @@
      </a>
   {% endif %}
   </div> <!-- /.frechas -->
+
+==============
+
+  {:.center}
+  ![cardinal](/img/2012/cardinal.jpg)
+  This is an image
+
+  Hi!
+
+  .center {
+    text-align: center;
+  }
+============================
+Here is an inlineere is an inline ![smiley](/imaxes/anterior.png){:height="36px" width="36px"}.
+
+And here is a referenced ![smile]
+
+[smile]: smile.png
+{: height="36px" width="36px"}
+
+=============
+<img align="right" src="/imaxes/capas.png">
+<img style="float: right;" src="/imaxes/capas.png">
+===============
+[autodiagnóstico POST]({{site.url}}/som/autodiagnostico)
