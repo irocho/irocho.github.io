@@ -10,7 +10,7 @@ O primeiro que se fai é  recoñecer se a CPU está funcionando, a memoria, as u
 
 
 
-<img style="float: right;" width="256" alt"placa" src="http://www.howtogeek.com/wp-content/uploads/2011/03/650x300xbanner11.png.pagespeed.gp+jp+jw+pj+js+rj+rp+rw+ri+cp+md.ic.ArQADmzm7i.png"/>Na placa base do ordenador existe un dispositivo que se chama [BIOS](http://www.tiendasinformatica.info/wiki/bios.html) (ou as modernas EFI ou UEFI) que ten un software moi simple que vai comprobando todo e mostrando en pantalla o resultado desa verificacicón.
+<img style="float: right;" width="256" alt="placa" src="http://www.howtogeek.com/wp-content/uploads/2011/03/650x300xbanner11.png.pagespeed.gp+jp+jw+pj+js+rj+rp+rw+ri+cp+md.ic.ArQADmzm7i.png"/>Na placa base do ordenador existe un dispositivo que se chama [BIOS](http://www.tiendasinformatica.info/wiki/bios.html) (ou as modernas EFI ou UEFI) que ten un software moi simple que vai comprobando todo e mostrando en pantalla o resultado desa verificacicón.
 
 Se algo falla o ordenador lanza un aviso que pode ser sonoro. [Nesta páxina](http://www.computerhope.com/beep.htm) e
 [nesta en castelán](http://www.itespresso.es/interpreta-los-sonidos-de-la-placa-base-37461.html)
