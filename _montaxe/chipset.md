@@ -3,7 +3,7 @@ layout: montaxe
 title: Chipset
 ---
 
-Serve de apoio ó microprocesador no controldas compoñentes da placa base. Abrangue os dous circuítos máis importantes da placa: 
+Serve de apoio ó microprocesador no control das compoñentes da placa base. Abrangue os dous circuítos máis importantes da placa: 
 
 * Ponte norte: próximo ó socket  e ós zócalos de memoria. Adoita estar cuberto por un disipador de calor.
 
