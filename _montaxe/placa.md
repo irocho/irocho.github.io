@@ -18,4 +18,4 @@ published: true
 * Conectores
 
 * Pila
-![placa cos nomes]({{site.baseurl}}/imaxes/http://image.slidesharecdn.com/placabase-141027231712-conversion-gate02/95/placa-base-mtherboard-2-638.jpg?cb=1414451876)
+![placa cos nomes]({{site.baseurl}}http://image.slidesharecdn.com/placabase-141027231712-conversion-gate02/95/placa-base-mtherboard-2-638.jpg?cb=1414451876)
