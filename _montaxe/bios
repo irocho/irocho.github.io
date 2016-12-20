@@ -1,0 +1,7 @@
+---
+layout: montaxe
+title: BIOS
+---
+
+É un chip de memoria que vén configurado de fábrica cos valores axeitados para a placa base. Estes valores poden modificarse polo usuario. 
+Podemos acceder a un programa moi simple para cambiar eses parámetros. Os ordenadores modernos teñen unha versión mellorada da BIOS que se chama EFI que ten máis funcións e mellora  a seguridade do equipo.
