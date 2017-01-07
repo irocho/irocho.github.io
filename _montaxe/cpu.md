@@ -9,10 +9,10 @@ title: Microprocesador
 
 Esta formado por:
 
-* [unidade de control (UC)]({{site.url}}/montaxe/UC)
+-[unidade de control (UC)]({{site.url}}/montaxe/UC)
 
-* [unidade aritmético-lóxica (ALU)]({{site.url}}/montaxe/ALU)
+-[unidade aritmético-lóxica (ALU)]({{site.url}}/montaxe/ALU)
 
-* [memorias caché]({{site.url}}/montaxe/cache)
+-[memorias caché]({{site.url}}/montaxe/cache)
 
-* rexistros que son pequenas casiñas de memoria onde garda a penas un dato.
+-rexistros que son pequenas casiñas de memoria onde garda a penas un dato.

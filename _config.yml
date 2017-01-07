@@ -2,6 +2,8 @@ name: i-rochiño
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 exclude: [vendor] #Travis bundles all gems in the vendor directory on its build servers, which Jekyll will mistakenly read and explode on.
+gems:
+  - jekyll-sitemap
 collections:
   som:
     output : true
@@ -9,5 +11,6 @@ collections:
   montaxe:
     output : true
     permalink : /montaxe/:path/
-gems:
-  - jekyll-sitemap
+planificar:
+  output : true
+  permalink : /planificar/:path/

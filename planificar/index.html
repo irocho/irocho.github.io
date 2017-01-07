@@ -1,0 +1,12 @@
+---
+layout: page
+title: planificar
+---
+
+<span style="color: orange"><h2>Planificación da CPU</h2> </span>
+
+{% for planificar in site.planificar %}
+	<div class="planificar">
+	   <h2><a href="{{ planificar.url }}">{{ planificar.title }}</a></h2>
+	</div>
+{% endfor %}
