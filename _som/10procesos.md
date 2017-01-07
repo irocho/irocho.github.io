@@ -10,7 +10,7 @@ uso da CPU, etc. Cada proceso ten o seu contador de programa, rexistros e variab
 O contido da estructura de datos dun proceso que permite controlar todos
 os aspectos da súa execución é:
 
-Estado actual do proceso:
+[Estado]({{site.url}}/planificar/03estadosprocesos){:target="_blank"}  actual do proceso:
 
 > Pode estar en execución, agardando, parado,..
 
@@ -35,6 +35,6 @@ Recursos asociados:
     operativo, por exemplo o acceso a un ficheiro determinado.
 
 
-O primerio proceso que se executa no arranque do ordenador é o [proceso init]({{site.url}}/som/12init). Existen uns procesos que se crean despois e permanecen en segundo plano por exemplo  os que están pendentes do correo electrónico, de que se imprima correctamente ou de avisar de eventos da axenda. Estes procesos en Linux chámanse *demos*.
+O primeiro proceso que se executa no arranque do ordenador é o [proceso init]({{site.url}}/som/12init). Existen uns procesos que se crean despois e permanecen en segundo plano por exemplo  os que están pendentes do correo electrónico, de que se imprima correctamente ou de avisar de eventos da axenda. Estes procesos en Linux chámanse *demos*.
 
 Un proceso é unha unidade de actividade caracterizada pola execución dunha secuencia de instrucións, un estado actual e un conxunto de recursos do sistema asociados.

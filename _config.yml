@@ -14,3 +14,6 @@ collections:
   planificar:
     output : true
     permalink : /planificar/:path/
+  memoria:
+    output : true
+    permalink : /memoria/:path/

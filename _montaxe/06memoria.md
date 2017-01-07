@@ -4,7 +4,7 @@ title: Memoria
 ---
 
 
-A memoria nun ordenador almacena os datos e os programas mentres os esteamos utilizando. Organízase tendo en conta o rápido ou lento que sexa mover os datos nelanunha distribución denominada [xerarquia de memoria]({{site.url}}/montaxe/xerarquiaMemoria).
+A memoria nun ordenador almacena os datos e os programas mentres os esteamos utilizando. Organízase tendo en conta o rápido ou lento que sexa mover os datos nelanunha distribución denominada [xerarquia de memoria]({{site.url}}/montaxe/07xerarquiaMemoria).
 
 Definimos dous tipos de operacións que se poden realizar sobre calquera memoria ou sistema de almacenamento de datos:
 

@@ -1,6 +1,6 @@
 ---
 layout: planificar
-title: FIFO
+title: -> FIFO
 ---
 
 _First In first Out_ ou sexa o que chega embarca.

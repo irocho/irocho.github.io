@@ -1,5 +1,5 @@
 ---
-layout: som
+layout: memoria
 title: Paxinación
 ---
 

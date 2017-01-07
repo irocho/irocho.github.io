@@ -1,0 +1,14 @@
+---
+layout: page
+title: memoria
+---
+
+
+<span style="color: orange"><h2>Organización da memoria</h2> </span>
+
+
+{% for memoria in site.memoria %}
+	<div class="memoria">
+	   <h2><a href="{{ memoria.url }}">{{ memoria.title }}</a></h2>
+	</div>
+{% endfor %}
