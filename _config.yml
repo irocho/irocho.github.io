@@ -11,6 +11,6 @@ collections:
   montaxe:
     output : true
     permalink : /montaxe/:path/
-planificar:
-  output : true
-  permalink : /planificar/:path/
+  planificar:
+    output : true
+    permalink : /planificar/:path/

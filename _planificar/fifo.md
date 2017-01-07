@@ -3,6 +3,6 @@ layout: planificar
 title: FIFO
 ---
 
-Para facer probas
+_First In first Out_ ou sexa o que chega embarca.
 
-FIFO
+Consiste en

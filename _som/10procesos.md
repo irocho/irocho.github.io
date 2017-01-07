@@ -1,12 +1,11 @@
 ---
 layout: som
-title: Procesos e fíos
+title: Procesos
 ---
 Un proceso é un programa en execución. Cada proceso componse do código
 que se executa e a correspondente estructura de datos. Ambos estarán
 cargados en memoria e terán uns recursos asignados: espacio en memoria,
-uso da CPU, etc. O sistema operativo é o encargado de controlar a
-execución.
+uso da CPU, etc. Cada proceso ten o seu contador de programa, rexistros e variables illados doutros procesos. O sistema operativo é o encargado de controlar a execución.
 
 O contido da estructura de datos dun proceso que permite controlar todos
 os aspectos da súa execución é:
@@ -36,9 +35,6 @@ Recursos asociados:
     operativo, por exemplo o acceso a un ficheiro determinado.
 
 
-Un proceso pódese crear, executar, poñelo en espera ou matalo.  Se quixéramos crear a man un proceso en Linux temos o comando `fork` e para monitorizar os
-procesos que se están executando usaremos `top, ps`. Se queremos rematar
-un proceso empregaremos `kill` indicando o PID. Moito olliño con facelo
-sen estar seguros do que facemos.
+O primerio proceso que se executa no arranque do ordenador é o [proceso init]({{site.url}}/som/12init). Existen uns procesos que se crean despois e permanecen en segundo plano por exemplo  os que están pendentes do correo electrónico, de que se imprima correctamente ou de avisar de eventos da axenda. Estes procesos en Linux chámanse *demos*.
 
-O primerio proceso que se executa no arranque do ordenador é o [proceso init]({{site.url}}/som/init). Existen uns procesos que se crean despois e permanecen en segundo plano por exemplo  os que están pendentes do correo electrónico, de que se imprima correctamente ou de avisar de eventos da axenda. Estes procesos en Linux chámanse *demos*.
+Un proceso é unha unidade de actividade caracterizada pola execución dunha secuencia de instrucións, un estado actual e un conxunto de recursos do sistema asociados.
