@@ -7,7 +7,6 @@ ul li {
   color: #333333;
 }
 
-
 nav ul, footer ul {
     font-size: 0.7em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -53,7 +52,7 @@ p {
 }
 
 figure {
-  float: left;
+  float: center;
   margin: 10px 10px 10px 0;
 }
 /*ol {
@@ -67,6 +66,12 @@ span {
   padding: 0px;
   list-style: none;
   font-weight: bold;
+}
+
+img {
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image-width: 10px;
 }
 
 /*ul.posts {

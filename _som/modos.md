@@ -16,12 +16,6 @@ Para que o programador non se teña que ocupar dos detalles do hardware e
 non se poda estragar nada, a maioría das computadoras teñen dous modos
 de operación: modo kernel e modo usuario.
 
--   O sistema operativo é a peza fundamental do software e execútase en
-    modo kernel (ou modo supervisor). Neste modo tense acceso completo a
-    todo o hardware e pódese executar calquera instrución que a máquina
-    sexa capaz.
+O sistema operativo é a peza fundamental do software e execútase en modo kernel (ou modo supervisor). Neste modo tense acceso completo a todo o hardware e pódese executar calquera instrución que a máquina sexa capaz.
 
--   O resto do software execútase en modo usuario: só un subconxunto de
-    instrucións están permitidas. Están prohibidas para os programas que
-    se executan neste modo as que afectan especialmento ó control da
-    máquina ou as que se encargan da entrada e saída de información.
+O resto do software execútase en modo usuario: só un subconxunto de instrucións están permitidas. Están prohibidas para os programas que se executan neste modo as que afectan especialmento ó control da máquina ou as que se encargan da entrada e saída de información.
