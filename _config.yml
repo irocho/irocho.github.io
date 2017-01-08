@@ -17,3 +17,9 @@ collections:
   memoria:
     output : true
     permalink : /memoria/:path/
+  montaxe:
+    output : true
+    permalink : /montaxe/:path/
+  placa:
+    output : true
+    permalink : /placa/:path/

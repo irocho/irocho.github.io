@@ -5,6 +5,8 @@ title: Algoritmos de planificación
 
 Como se apaña a CPU para atender ós procesos que o usuario desexa que se executen?
 
+Se temos un único microprocesador necesitamos organizar os procesos que van chegando para facer un uso óptimo do sistema, é o que se chama _planificación_.
+
 En sistemas multitarea pode dar a sensación de que se executan moitos procesos á vez aínda que só haxa un procesador. En realidade o que pasa é que a CPU planifica a orde na que vai executar cada proceso dun xeito que é transparente ó  usuario. Existen varios tipos de planificación dos que estudiaremos:
 
 

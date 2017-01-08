@@ -1,6 +1,7 @@
 ---
 layout: montaxe
 title: Disco duro
+published: false
 ---
 
 

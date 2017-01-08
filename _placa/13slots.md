@@ -1,10 +1,10 @@
 ---
-layout: montaxe
+layout: placa
 title: Slots ou buses de expansión
 ---
 
 
-<img style="float: right;" alt="xerarquía de memoria" height="256px"  src="/imaxes/slots.jpg">
+<img style="float: right;" alt="slots" height="256px"  src="/imaxes/slots.jpg">
 
 Os slots son os encargados de conectar a placa cos cartóns ou tarxetas de expansión. O máis antigo chamábase ISA pero os modernos son:
 

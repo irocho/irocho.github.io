@@ -1,0 +1,4 @@
+---
+layout: placa
+title: Conectores
+---

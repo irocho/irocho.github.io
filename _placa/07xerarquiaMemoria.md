@@ -1,5 +1,5 @@
 ---
-layout: montaxe
+layout: placa
 title: Xerarquía de Memoria
 ---
 
@@ -14,22 +14,22 @@ O ordenador trae e leva os datos entre os niveis segundo a súa probabilidade de
 
  De menor capacidade a maior, os niveis de xerarquia de memoria son os seguintes:
 
-* _rexistros:_
+* [_rexistros:_]({{site.url}}/placa/10rexistros)
 
->> son pequenas memorias de alta velocidade e moi baixa capacidade utilizadas para o almacenamento intermedio de datos, atópanse na [unidade de control ]({{site.url}}/montaxe/04UC)  e na [ALU]({{site.url}}/montaxe/03ALU).
+>> moi pequenos e de moi rápido acceso ó datos que almacenamenan
 
-* [_memorias caché_]({{site.url}}/montaxe/08cache)
+* [_memorias caché_]({{site.url}}/placa/08cache)
 
 >> veñen de fábrica no interior do microprocesador.
 
 
 * _memoria principal:_
 
->> conocida tamén como [memoria RAM]({{site.url}}/montaxe/09RAM), alóxase nos zócalos da placa base. Pode ampliarse con facilidade.
+>> conocida tamén como [memoria RAM]({{site.url}}/placa/09RAM), alóxase nos zócalos da placa base. Pode ampliarse con facilidade.
 
 * _secundaria:_
 
->>utilízase para almacenar información de forma permanente, pode gardar moitos datos. O [disco duro interno]({{site.url}}/montaxe/10discoDuro) do ordenador é un exemplo.
+>>utilízase para almacenar información de forma permanente, pode gardar moitos datos. O [disco duro interno]({{site.url}}/montaxe/10discoDuro){:target="_blank"} do ordenador é un exemplo.
 
 * _auxiliar:_
 

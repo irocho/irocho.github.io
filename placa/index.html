@@ -1,0 +1,11 @@
+---
+layout: page
+title: placa
+---
+<span style="color: green"><h2>Compoñentes na placa base </h2> </span>
+
+{% for placa in site.placa %}
+	<div class="placa">
+	   <h2><a href="{{ placa.url }}">{{ placa.title }}</a></h2>
+	</div>
+{% endfor %}

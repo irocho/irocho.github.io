@@ -1,5 +1,5 @@
 ---
-layout: montaxe
+layout: placa
 title: Chipset
 ---
 
@@ -10,8 +10,11 @@ Serve de apoio ó microprocesador no control das compoñentes da placa base. Abr
 
 > *Ponte norte:* próximo ó socket  e ós zócalos de memoria. Adoita estar cuberto por un disipador de calor.
 
-> *Ponte sur:* próximo ós slots de expansión e ás conexións de E/S.
+> *Ponte sur:* próximo ós slots de expansión e ás conexións de E/S, é o encargado das compoñentes máis "lentas" do ordenador coma os portos, a rede, ...
 
 Algúns fabricantes desenvolveron buses específicos de alta velocidade para comunicar ambas pontes. Por exemplo DMI ou V-Link.
 
 Outros fabricantes integran parte das funcións da ponte norte no microprocesador e a ponte sur pasa a chamarse *PCH*
+
+{:center}
+![chipset cos nomes]({{site.baseurl}}/imaxes/nortesur.jpg)
