@@ -1,4 +1,8 @@
 ---
 layout: montaxe
-title: -> Tipos de caixas
+title: Caixas: tipos e modelos
 ---
+
+
+
+  _Pendente alumnos_

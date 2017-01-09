@@ -5,41 +5,41 @@ title: Funcións dun sistema operativo
 
 Hoxe en día un sistema operativo é un software moi complexo que permite que o hardware sexa *transparente* para un usuario, é dicir, non hai que se preocupar da marca do escáner se queremos obter unha imaxe na pantalla. Salvo cando falamos a moi baixo nivel (con instrucións en código máquina) o resto dos programas poden executarse para o hardware de calquera máquina na que estea instalado o mesmo sistema operativo. O sistema operativo é xa que logo o organizador e o xestor de todo o que se fai co obxectivo é facilitar o uso do ordenador.
 
-Os sistemas operativos actuais teñen encomendadas moitas misións, algunhas son familiares para nós e seguro que todos as usamos a cotío
+Os sistemas operativos actuais teñen encomendadas moitas misións, algunhas son familiares para nós e seguro que todos as usamos a cotío:
 
 * Simplificar a relación co usuario:
 
->   Sexa cunha interfaz modo texto ou modo gráfico.
+>   sexa cunha interfaz modo texto ou modo gráfico.
 
 * Controlar a execución dos programas:
 
->   Aceptar os traballos, administrar o xeito no que se realizan, asignar recursos e finalízalos cando cómpra.
+>   aceptando os traballos, administrando o xeito no que se realizan, asignando recursos e finalizándos cando cómpra.
 
 * Xestionar os sistemas de arquivo:
 
->   manter a lista de arquivos do disco e favorecer a súa organización (por exemplo en directorios) e a súa manipulación (creación, modificación, eliminación, etc)
+>   mantendo a lista de arquivos do disco e favorecer a súa organización (por exemplo en directorios) e a súa manipulación (creación, modificación, eliminación, etc)
 
 * Administrar periféricos
 
->   Coordinar e organizar os dispositivos conectados ó ordenador. Con que eu faga `Arquivo/Imprimir` podo pasar a papel os meus documentos sen preocuparme do funcionamento dos rodillos da impresora.
+>   coordinando e organizando os dispositivos conectados ó ordenador: con que eu faga `Arquivo/Imprimir` podo pasar a papel os meus documentos sen preocuparme do funcionamento dos rodillos da impresora.
 
 Outras funcións teñen un carácter máis técnico e serán as que traballaremos máis polo miúdo:
 
 * Xestión de permisos e usuarios:
 
->   Adxudica permisos de acceso e evita que as accións dun usuario afecten ó traballo que fai outro. Ou que un usuario cotillee nos documentos de outro sen permiso.
+>   adxudicando permisos de acceso e evitando que as accións dun usuario afecten ó traballo que fai outro. Ou que un usuario cotillee nos documentos de outro sen permiso.
 
 * Control de concurrencia:
 
->   Establece prioridades cando se precise usar un recurso. Se varios programas teñen que usar o procesador non pode ser que o usen todos á vez e que se mesturen os datos.
+>   establecendo prioridades cando se precise usar un recurso: se varios programas teñen que usar o procesador non pode ser que o usen todos á vez e que se mesturen os datos.
 
 * Administración de memoria:
 
->   Asigna posicións de memoria e xestiona o seu uso. Non necesito preocuparme das posicións de memoria que estou ocupando.
+>   asignando posicións de memoria e xestionando o seu uso: non necesito preocuparme das posicións de memoria que están ocupando os meus datos.
 
 * Control de seguridade:
 
->   Garantiza que a información se almacene dun xeito seguro. Uns datos non poden pisar ós outros.
+>   garantindo que a información se almacene dun xeito seguro: uns datos non poden pisar ós outros.
 
 * Apoio a programas:
 
@@ -47,4 +47,4 @@ Outras funcións teñen un carácter máis técnico e serán as que traballaremo
 
 * Control de erros:
 
->   Xestiona os erros de hardware e a perda de datos.
+>   xestionando os erros de hardware e a perda de datos.

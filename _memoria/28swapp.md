@@ -1,6 +1,7 @@
 ---
 layout: memoria
 title: Swapping
+published: false
 ---
 
 Cando se instala un sistema operativo resérvase unha porción do disco duro para _memoria de intercambio (chamada swap)_. No resto do disco duro iráse instalando o sistema operativo mais as aplicacións.

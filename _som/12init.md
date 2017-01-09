@@ -1,6 +1,7 @@
 ---
 layout: som
 title: Proceso init
+published: false
 ---
 
 

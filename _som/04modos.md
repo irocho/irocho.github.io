@@ -5,7 +5,7 @@ title: Modos de operación
 
 
 Se por calquera razón un programa precisa o uso do hardware directamente
-pódese inserir unhas liñas de código para acceder a funcións concretas
+pódense inserir unhas liñas de código para acceder a funcións concretas
 que se denominan *chamadas ó sistema*. Son os fabricantes os que
 proporcionan esa información en bibliotecas chamadas API. Se quero
 programar un videoxogo pode ser que teña que acceder á API de Windows e

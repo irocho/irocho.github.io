@@ -16,7 +16,7 @@ Se algo falla o ordenador lanza un aviso que pode ser sonoro. [Nesta páxina](ht
 [nesta en castelán](http://www.itespresso.es/interpreta-los-sonidos-de-la-placa-base-37461.html)
 indícanse o significado que teñen os  pitidos dalgunhas placas cando algo vai mal.
 
-Se queremos modificar calquera parámetro de hardware por exemplo que arranque o ordenador dende outro disco duro daquela usaremos un programa chamado *Setup.* Xusto cando prendemos o ordenador, antes do arranque do sistema cada fabricante configura as teclas que cómpre usar para acceder ó *Setup*.
+Se queremos modificar calquera parámetro de hardware, por exemplo que arranque o ordenador dende outro disco duro daquela usaremos un programa chamado *Setup.* Xusto cando prendemos o ordenador, antes do arranque do sistema cada fabricante configura as teclas que cómpre usar para acceder ó *Setup*.
 
 <img style="float: right;" width="128" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/POST_card_98usd.jpg"/>
 No mercado podemos mercar uns cartóns de expansión que se instalan na placa e mostran códigos de posibles erros no arranque do sistema.
