@@ -14,7 +14,7 @@ Con este algoritmo a planificación respecta o turno de chegada. Os procesos exe
 | P1 | 0 | 7 |
 | P2 | 3 | 4 |
 
-No tempo 0 chega o primeiro, toma posesión da CPU durante 7 segundo. No segundo 3 chegou P2 pero a CPU está ocupada (terá que agardar 5 segundos). No segundo 7 remata o primeiro proceso e o segundo execútase durante 4 segundos.
+Con esta planificación no tempo 0 chega o primeiro proceso e toma posesión da CPU durante 7 segundos. Cando van 3 segundos chegou P2 pero a CPU está ocupada e terá que agardar 4 segundos. No segundo 7 remata o primeiro proceso e o segundo execútase durante o tempo que precise.
 
 O diagrama de Gantt ou cronograma sería:
 
