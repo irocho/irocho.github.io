@@ -1,7 +1,6 @@
 ---
 layout: planificar
 title: -> FIFO
-published: false
 ---
 
 _First In first Out:_ o que chega embarca.
