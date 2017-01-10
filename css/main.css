@@ -83,15 +83,13 @@ ul.posts li {
 }
 */
 table{
-    margin-left: auto;
-    margin-right: auto;
     border-collapse: collapse;
     border-spacing: 10;
-    border:2px solid 	#FFA500;
+    border:2px solid #FFA500;
 }
 
 th{
-    border:2px solid 	#FFA500;
+    border:2px solid #FFA500;
 }
 
 td{
