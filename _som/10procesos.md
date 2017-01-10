@@ -1,4 +1,3 @@
-
 ---
 layout: som
 title: Procesos
@@ -11,7 +10,7 @@ uso da CPU, etc. Cada proceso ten o seu contador de programa, rexistros e variab
 O contido da estructura de datos dun proceso que permite controlar todos
 os aspectos da súa execución é:
 
-[Estado]({{site.url}}/planificar/03estadosprocesos){:target="_blank"}  actual do proceso:
+[Estado]({{site.url}}/planificar/03estadosprocesos){:target="_blank"_}  actual do proceso:
 
 > Pode estar en execución, agardando, parado,..
 

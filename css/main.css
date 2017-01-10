@@ -82,3 +82,18 @@ ul.posts li {
     list-style: none;
 }
 */
+table{
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    border-spacing: 10;
+    border:2px solid 	#FFA500;
+}
+
+th{
+    border:2px solid 	#FFA500;
+}
+
+td{
+    border:1px solid 	#FFA500;
+}
