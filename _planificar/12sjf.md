@@ -16,8 +16,6 @@ Con esta planificación no tempo 0 chega o primeiro proceso e toma posesión da 
 
 Cando remata P1 resulta que P2 e P3 están pendentes. Como P3 só precisa un segundo cólase e execútase antes. Cando remata ocupará a CPU durante os  segundos que necesite o proceso P2.
 
-
-
 O diagrama de Gantt ou cronograma sería:
 
 |tempo:| 0 |  1 |  2 |3   |4   | 5  | 6  | 7  | 8  | 9  |10   |11|12|13|14|
