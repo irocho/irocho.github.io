@@ -15,7 +15,7 @@ Existen varios tipos de planificación dos que estudiaremos:
 * [FIFO]({{site.url}}/planificar/11fifo): o que chega embarca
 * [SJF]({{site.url}}/planificar/12sjf): deixamos colar ó que menos tempo precisa
 * [Round-Robin]({{site.url}}/planificar/14roundrobin): imos a pachas
-* [Algoritmo por prioridades]({{site.url}}/planificar/13prioridades): o que ten prisa se cola
+* [Algoritmo por prioridades]({{site.url}}/planificar/13prioridades): o que ten enchufe pasa diante.
 
 O [planificador]({{site.url}}/planificar/09planificador) é o encargado de que levar adiante estes algoritmos.
 
