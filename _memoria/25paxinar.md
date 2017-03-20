@@ -1,7 +1,6 @@
 ---
 layout: memoria
 title: Paxinación
-published: false
 ---
 
 

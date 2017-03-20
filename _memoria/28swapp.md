@@ -1,10 +1,9 @@
 ---
 layout: memoria
 title: Swapping
-published: false
 ---
 
-Cando se instala un sistema operativo resérvase unha porción do disco duro para _memoria de intercambio (chamada swap)_. No resto do disco duro iráse instalando o sistema operativo mais as aplicacións.
+Cando se instala un sistema operativo resérvase unha porción do disco duro para _memoria de intercambio (chamada swap)_. No resto do disco duro iráse instalando o sistema operativo coas as aplicacións.
 
 Cando un proceso está suspendido por calquera razón (p.e. está agardando un recurso ocupado) ou cando varios usuarios executan procesos nun mesmo ordenador cómpre ir traendo e levando procesos da RAM para que outros procesos podan executarse. Se un proceso retírase de memoria pasa a esta partición swap no disco duro.
 

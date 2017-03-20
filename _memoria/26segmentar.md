@@ -1,7 +1,6 @@
 ---
 layout: memoria
 title: Segmentación
-published: false
 ---
 
 
