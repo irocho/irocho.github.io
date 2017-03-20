@@ -1,6 +1,6 @@
 ---
 layout: memoria
-title: Segmentación
+title: -> Segmentación
 ---
 
 

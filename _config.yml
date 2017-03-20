@@ -14,6 +14,9 @@ collections:
   planificar:
     output : true
     permalink : /planificar/:path/
+  entradaSaida:
+    output : true
+    permalink : /entradaSaida/:path/
   memoria:
     output : true
     permalink : /memoria/:path/
