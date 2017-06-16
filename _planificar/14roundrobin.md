@@ -20,6 +20,13 @@ O primeiro en executarse é P1 que ocupa o seu quantum de 2 ciclos (quédalle un
  
 Mentres se executa chega P2 e ponse á cola. Pasan dous ciclos e P1 expúlsase da CPU. 
 
+
+|tempo:| 0 |  1 |  2 |3   |4   | 5  |
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+| P1 |  + | =  |  =| ... | ... |   |  
+| P2 |  | +  |  ... |   |  |  |  
+
+
 Tócalle entrar a P2 para ocupar o seu quantum. Remata o tempo (e casualmente a súa execución) e expúlsase. 
 
 Na cola quedaba pendente P1; asígnanselle dous ciclos, pero resulta que con un ten dabondo para rematar.
