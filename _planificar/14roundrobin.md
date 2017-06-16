@@ -16,13 +16,13 @@ Por exemplo, supoñamos que o quantum é de 2 e chegan os procesos:
 | P1 | 0 | 3 |
 | P2 | 1 | 2 |
 
--> O primeiro en executarse é P1 que ocupa o seu quantum de 2 ciclos (quédalle un pendente para rematar). 
+O primeiro en executarse é P1 que ocupa o seu quantum de 2 ciclos (quédalle un pendente para rematar). 
  
--> Mentres se executa chega P2 e ponse á cola. Pasan dous ciclos e P1 expúlsase da CPU. 
+Mentres se executa chega P2 e ponse á cola. Pasan dous ciclos e P1 expúlsase da CPU. 
 
--> Tócalle entrar a P2 para ocupar o seu quantum. Remata o tempo (e casualmente a súa execución) e expúlsase. 
+Tócalle entrar a P2 para ocupar o seu quantum. Remata o tempo (e casualmente a súa execución) e expúlsase. 
 
--> Na cola quedaba pendente P1; asígnanselle dous ciclos, pero resulta que con un ten dabondo para rematar.
+Na cola quedaba pendente P1; asígnanselle dous ciclos, pero resulta que con un ten dabondo para rematar.
 
 Na cola foron entrando: P1, P2, P1 (tivo que volver á cola para poder acabarse).
 
