@@ -16,7 +16,7 @@ Por exemplo, supoñamos que o quantum é de 2 e chegan os procesos:
 | P1 | 0 | 3 |
 | P2 | 1 | 2 |
 
- - O primeiro en executarse é P1 que ocupa o seu quantum de 2 ciclos (quédalle un pendente para rematar). 
+- O primeiro en executarse é P1 que ocupa o seu quantum de 2 ciclos (quédalle un pendente para rematar). 
  
 - Mentres se executa chega P2 e ponse á cola. Pasan dous ciclos e P1 expúlsase da CPU. 
 
