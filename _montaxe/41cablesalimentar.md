@@ -16,4 +16,4 @@ Os cables procedentes da [fonte de alimentación]({{site.url}}/montaxe/40aliment
 Existen  tamén no mercado adaptadores para convertir un conector SATA nun PCIe (ver imaxe pequena).
 
 
-![cabes de alimentación cos nomes]({{site.baseurl}}/imaxes/cablealimentar.gif)
+![cabes de alimentación cos nomes]({{site.url}}/imaxes/cablealimentar.gif)
