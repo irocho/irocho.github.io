@@ -1,6 +1,7 @@
 ---
 layout: memoria
 title: -> Paxinación
+pdf: true
 ---
 
 
