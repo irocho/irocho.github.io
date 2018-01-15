@@ -24,3 +24,6 @@ collections:
   placa:
     output : true
     permalink : /placa/:path/
+  codificar:
+    output : true
+    permalink : /codificar/:path/
