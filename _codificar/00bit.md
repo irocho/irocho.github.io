@@ -7,3 +7,4 @@ published: true
 Un _bit_ é a unidade mínima de información.
 
 Os ordenadores traballan con grupos de 8 bits ós que chamamos _bytes_
+![uns e ceros]({{site.baseurl}}/imaxes/bit.jpg)
