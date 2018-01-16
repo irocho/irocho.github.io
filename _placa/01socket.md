@@ -10,5 +10,5 @@ Para fixar a CPU ó socket empregamos un prendedor ou un deslizador arredor do q
 
 Existen dúas variantes:
 
-* ZIF: cheo de buratos para inserir o procesador que queda suxeito por un prendedor. Non precisamos facer forza para inserilo.
-* LGA:  cheo de patillas, facilita a instalación e permite maior número de contactos e de velocidade.
+* _ZIF_: cheo de buratos para inserir o procesador que queda suxeito por un prendedor. Non precisamos facer forza para inserilo.
+* _LGA_:  cheo de patillas, facilita a instalación e permite maior número de contactos e de velocidade.

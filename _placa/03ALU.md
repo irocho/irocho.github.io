@@ -1,6 +1,6 @@
 ---
 layout: placa
-title: ALU
+title: Unidade aritmético lóxica (ALU)
 ---
 
 

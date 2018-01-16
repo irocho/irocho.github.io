@@ -1,0 +1,11 @@
+---
+layout: page
+title: perifericos
+---
+<span style="color: green"><h2>Periféricos </h2> </span>
+
+{% for perifericos in site.perifericos %}
+	<div class="perifericos">
+	   <h2><a href="{{ perifericos.url }}">{{ perifericos.title }}</a></h2>
+	</div>
+{% endfor %}

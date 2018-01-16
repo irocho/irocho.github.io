@@ -19,4 +19,4 @@ Está formada por:
 
 > -[rexistros]({{site.url}}/placa/10rexistros)
 
-A potencia da CPU mídese segundo a velocidade e a cantidade de datos que é quen de procesar. Mídese en ciclos por segundo, ou millóns de ciclos por segundo, denominados “megahercios” (MHz), o miles de millóns de ciclos por segundo, denominados “xigahercios” (GHz).
+A potencia da CPU mídese segundo a velocidade e a cantidade de datos que é quen de procesar. Mídese en ciclos por segundo, ou millóns de ciclos por segundo, denominados _megahercios_ (MHz), ou miles de millóns de ciclos por segundo denominados _xigahercios_ (GHz).
