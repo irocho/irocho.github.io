@@ -1,3 +1,4 @@
+TODO cachos de código
 
 <img style="float: right;" alt="xerarquía de memoria" height="256px"  src="/imaxes/socket.jpg">
 ===============

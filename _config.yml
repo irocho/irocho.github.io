@@ -27,3 +27,5 @@ collections:
   codificar:
     output : true
     permalink : /codificar/:path/
+
+    # FIXME definir aquí a coleción: o novo apartado
