@@ -1,6 +1,6 @@
 ---
 layout: placa
-title: Rexistros
+title: ->Rexistros
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: placa
-title: Memorias caché
+title: ->Memorias caché
 ---
 
 

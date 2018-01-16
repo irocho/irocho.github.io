@@ -1,6 +1,6 @@
 ---
 layout: placa
-title: Memoria RAM
+title: ->Memoria RAM
 ---
 
 

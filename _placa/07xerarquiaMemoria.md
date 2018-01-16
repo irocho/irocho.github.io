@@ -1,6 +1,6 @@
 ---
 layout: placa
-title: Xerarquía de Memoria
+title: -> Xerarquía de Memoria
 ---
 
 <img style="float: right;" alt="xerarquía de memoria" src="/imaxes/xerarquia.png">
