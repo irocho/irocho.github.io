@@ -1,5 +1,6 @@
 body {
     margin: 60px auto;
+    line-height: 1.4em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     width: 70%;
 }
@@ -7,7 +8,6 @@ body {
 /*  No corpo do texto, sae con punto gordo*/
 ul li {
   color: #333333;
-  line-height: 1.4em;
 }
 /*  */
 nav ul, footer ul {
