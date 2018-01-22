@@ -1,6 +1,6 @@
 ---
 layout: placa
-title: Factor de forma dunha placa
+title: Factor de forma
 ---
 
 
