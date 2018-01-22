@@ -11,13 +11,13 @@ title: Microprocesador
 
 Está formada por:
 
-> -[unidade de control (UC)]({{site.url}}/placa/04UC)
+> * [unidade de control (UC)]({{site.url}}/placa/04UC)
 
-> -[unidade aritmético-lóxica (ALU)]({{site.url}}/placa/03ALU)
+> * [unidade aritmético-lóxica (ALU)]({{site.url}}/placa/03ALU)
 
-> -[memorias caché]({{site.url}}/placa/08cache)
+> * [memorias caché]({{site.url}}/placa/08cache)
 
-> -[rexistros]({{site.url}}/placa/10rexistros)
+> * [rexistros]({{site.url}}/placa/10rexistros)
 
 A potencia da CPU mídese segundo a velocidade e a cantidade de datos que é quen de procesar. Mídese en ciclos por segundo, ou millóns de ciclos por segundo, denominados _megahercios_ (MHz), ou miles de millóns de ciclos por segundo denominados _xigahercios_ (GHz).
 
