@@ -14,6 +14,5 @@ Son as ranuras da  placa onde se aloxan os [módulos de memoria RAM]({{site.url}
 
 Os portátiles levan unha variante que é a metade de tamaño chamada SO-DIMM
 
-Cada zócalo leva  unhas presillas para trincar os módulos de RAM.
 
 Os ordenadores actuais traballan en _dual channel_ o que signiica que conectando a pares os zócalos mellora a velocidade de lectura e escritura. Na imaxe vemos os zócalos a cores por parellas.

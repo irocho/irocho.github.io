@@ -7,7 +7,7 @@ A fonte de alimentación é o elemento do interior da caixa do ordenador que con
 
 Dispón dun ventilador para refrixerar as compoñentes e evitar que se dañen pola calor que xenera.
 
-As fontes ATX son as máis habituais e van conectadas á placa base. Reciben polo conector macho unha corrente alterna de 230 V a 50 Hz e transfórmanna en contínua cos valores:
+As fontes [ATX]({{site.url}}/placa/00factorforma) son as máis habituais e van conectadas á placa base. Reciben polo conector macho unha corrente alterna de 230 V a 50 Hz e transfórmanna en contínua cos valores:
 
 * $$\pn$$ +-12 V para subministrar enerxía a compoñentes con partes mecánicas coma un disco duro
 * $$\pn$$+-5 V ou +3,3 V para alimentar circuítos electrónicos.
