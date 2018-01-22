@@ -18,6 +18,7 @@ nav ul, footer ul {
     font-weight: bold;
 }
 nav ul li{
+    font-size: 5em;
     display: inline;
     margin-right: 40px;
 }
