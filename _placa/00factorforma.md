@@ -16,4 +16,4 @@ O factor de forma determina o tipo de caixa e as posibilidades de ampliación do
 
 O factor de forma máis habitual é ATX con medidas de 30x24 cm e conectores de corrente de 20 ou 24 pines. O documento técnico que o define está [aquí](www.formfactors.org/developer/specs/atx2_1.pdf).
 
-Outros factores de forma son ITX, BTX e os derivados: microATX ou MobileITX
+Outros factores de forma son ITX, BTX e os derivados: microATX ou MobileITX.
