@@ -6,12 +6,10 @@ body {
 
 /*  No corpo do texto, sae con punto gordo*/
 ul li {
-  font-size: 1em;
   color: #333333;
 }
 /*  */
 nav ul, footer ul {
-    font-size: .7em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
