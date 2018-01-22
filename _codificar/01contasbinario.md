@@ -13,6 +13,10 @@ Cómpre ter en conta que:
 1+1=10
 
 **Convertir de binario a decimal**
+
 ![bin2dec]({{site.baseurl}}/imaxes/convert-2-10.jpg)
+
+
 **Convertir de decimal a binario**
+
 ![dec2bin]({{site.baseurl}}/imaxes/convert10_2.jpg)

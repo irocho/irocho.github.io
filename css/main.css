@@ -3,6 +3,8 @@ body {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     width: 70%;
 }
+
+/*  No corpo do texto, sae con punto gordo*/
 ul li {
   font-size: 1em;
   color: #333333;
