@@ -3,7 +3,7 @@ layout: codificar
 title: Contas en binario
 published: true
 ---
-<img style="float: right;" alt="bits" height="256px"  src="/imaxes/cod_decimal_binario.jpg">
+<img style="float: right;" alt="bits" height="256px"   src="/imaxes/cod_decimal_binario.jpg">
 
 Nun sistema binario só podemos contar con ceros e uns. Na táboa vemos os números binarios correspondentes a cada decimal.
 
@@ -19,4 +19,4 @@ Cómpre ter en conta que:
 
 **Convertir de decimal a binario**
 
-<img  alt="bin2dec" height="256px"  src="/imaxes/convert10_2.png">
+<img  alt="dec2bin" height="256px"  src="/imaxes/convert10_2.png">
