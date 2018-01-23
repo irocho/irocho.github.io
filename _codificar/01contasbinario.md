@@ -14,9 +14,9 @@ Cómpre ter en conta que:
 
 **Convertir de binario a decimal**
 
-![bin2dec]({{site.baseurl}}/imaxes/convert2-10.jpg)
+<img  alt="bin2dec" height="256px"  src="/imaxes/convert2-10.jpg">
 
 
 **Convertir de decimal a binario**
 
-![dec2bin]({{site.baseurl}}/imaxes/convert10_2.png)
+<img  alt="bin2dec" height="256px"  src="/imaxes/convert10_2.png">
