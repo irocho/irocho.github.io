@@ -55,6 +55,11 @@ p {
     line-height: 1.4em;
     color: #333;
 }
+img {
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image-width: 10px;
+}
 
 figure {
   float: center;
@@ -73,11 +78,6 @@ span {
   font-weight: bold;
 }
 
-img {
-  border: 10px solid transparent;
-  padding: 15px;
-  border-image-width: 10px;
-}
 
 /*ul.posts {
     margin: 20px auto 40px;
