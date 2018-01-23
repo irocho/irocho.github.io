@@ -14,6 +14,6 @@ Os fabricantes de placas puxéronse de acordo para definir unhas característica
 
 O factor de forma determina o tipo de caixa e as posibilidades de ampliación do hardware.
 
-O máis habitual é o chamado ATX con medidas de 30x24 cm e conectores de corrente de 20 ou 24 pines. O documento técnico que o define está [aquí](www.formfactors.org/developer/specs/atx2_1.pdf).
+O máis habitual é o chamado ATX con medidas de 30x24 cm e conectores de corrente de 20 ou 24 pines. O documento técnico que o define está [aquí](https://www.formfactors.org/developer/specs/atx2_1.pdf).
 
 Outros factores de forma son ITX, BTX e os derivados: microATX ou MobileITX.

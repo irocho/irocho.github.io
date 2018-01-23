@@ -7,7 +7,7 @@ O sistema operativo é o encargado de xestionar os dispositivos externos que est
 
 As posiblidades de xestión da E/S son de dous tipos:
 
-* [Interrupcións]({{site.url}}../91interrupcion)
-* [DMA]({{site.url}}../92dma)
+* [Interrupcións]({{site.url}}/entradaSaida/91interrupcion)
+* [DMA]({{site.url}}/entradaSaida/92dma)
 
-Falaremos tamén de posibles [melloras]({{site.url}}../93melloras) que optimizan o uso do sistema.
+Falaremos tamén de posibles [melloras]({{site.url}}/entradaSaida/93melloras) que optimizan o uso do sistema.
