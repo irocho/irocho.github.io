@@ -11,11 +11,10 @@ Clasificarémolos tendo en conta se permiten introducir datos no ordenador ou se
 * periféricos de entrada: o usuario introduce información, _p.e. teclado_
 * periféricos de saída: o ordenador mostra uns resultados,  _p.e. pantalla_
 * periféricos de I/O: permiten tanto meter datos como mostralos, _p.e. disco duro externo_
-* * periféricos de comunicacións: grazas a eles pódense intercambiar datos entre ordenadores, _p.e. módem_
 
 Outra clasificación ten en conta o seu uso:
 
-* Periféricos de comunicacións: empléanse para establecer unha comunicación entre dous usuarios a través dos ordenadores, _p.e.módem router ou switch_
+* Periféricos de comunicacións: empléanse para intercambiar datos entre ordenadores, _p.e.módem router ou switch_
 * Periféricos de almacenamento: úsanse como memoria auxiliar á principal do ordenador. _p.e. pen ou recursos na nube_
 
 <!--
