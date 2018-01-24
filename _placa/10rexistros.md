@@ -1,10 +1,10 @@
 ---
 layout: placa
-title: ->Rexistros
+title: -> Rexistros
 ---
 
 
-<img style="float: right;" alt="Rexistros de memoria" src="/imaxes/rexistros.gif" width="256px">
+   <img style="float:right" height="256px"  alt="Rexistros de memoria" src="/imaxes/rexistros.gif" >
 
 
 Son pequenas casiñas de memoria que dan para gardar a penas un dato, accédese ós seus datos a moi alta velocidade e utilízanse para o almacenalos mentres se está traballando con eles.

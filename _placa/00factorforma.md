@@ -4,7 +4,7 @@ title: Factor de forma
 ---
 
 
-<img style="float: right;" alt="factores de forma" height="256px" src="/imaxes/formfactors.jpg">
+   <img style="float:right" height="256px"  alt="factores de forma" height="256px" src="/imaxes/formfactors.jpg">
 
 Os fabricantes de placas puxéronse de acordo para definir unhas características comúns ás que chaman _factores de forma_ como son:
 * dimensións

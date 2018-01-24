@@ -61,6 +61,13 @@ img {
   border-image-width: 10px;
 }
 
+img.dereita {
+  style="float: right;" alt="bits" height="256px" 
+  float: right;
+  height: 256px;
+  width: 25
+}
+
 figure {
   float: center;
   margin: 10px 10px 10px 0;

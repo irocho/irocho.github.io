@@ -4,7 +4,7 @@ title: Caixa ou chasis
 ---
 
 
-<img style="float: right;" alt="Caixa do ordenador" height="256px"  src="/imaxes/chasis.jpg">
+<img style="float: right" height="256px" alt="Caixa do ordenador"  src="/imaxes/chasis.jpg">
 
 A caixa dun ordenador debe ofrecer unha estructura para soster o equipo informático e deixar espacio dabondo para aloxar as compoñentes internas da computadora (lembrar a posibilidade de ampliar o equipo).
 

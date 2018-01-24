@@ -15,7 +15,7 @@ plugin: markdown.rb
 
 
 {% if page.previous %}
-  <a href="{{  site.baseurl }}{{  page.previous.url }}">   <img src="anterior.png" style="width:32px;height:32px;border:0;"> </a>
+  <a href="{{  site.baseurl }}{{  page.previous.url }}">      <img style="float:right" height="256px"   src="anterior.png" style="width:32px;height:32px;border:0;"> </a>
 {% endif %}
 
 <li> {% if page.next %}

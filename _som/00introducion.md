@@ -3,7 +3,7 @@ layout: som
 title: Introdución
 ---
 
-<img style="float: right;" alt="capas" src= "/imaxes/capas.png">
+ <img style="float: right;" alt="capas" src= "/imaxes/capas.png">
 
 Nos anos corenta cando se comezaron a construír ordenadores os programadores tiñan que ter en conta as peculiaridades do equipo co que traballaban. Non era o mesmo programar para un procesador ou para outro, as instrucións tiñan que indicar por exemplo o espacio de memoria que se ía usar.
 

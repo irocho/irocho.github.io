@@ -3,7 +3,7 @@ layout: placa
 title: Microprocesador
 ---
 
-<img style="float: right;" alt="microprocesador" src="/imaxes/micro.jpg" height="256px">
+   <img style="float:right" height="256px"  alt="microprocesador" src="/imaxes/micro.jpg" height="256px">
 
 É a compoñente máis importante do ordenador. Hai quen di que é o verdadeiro  cerebro que controla e goberna todo o sistema.
 

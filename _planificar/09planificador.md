@@ -3,7 +3,7 @@ layout: planificar
 title: Planificador
 ---
 
-<img style="float: right;" alt="Planificador" height="200px"  src="/imaxes/gantt.jpg">
+   <img style="float:right" height="256px"  alt="Planificador" height="200px"  src="/imaxes/gantt.jpg">
 
 O obxectivo da planificación é minimizar os tempos, maximizar a cantidade de procesos que se executan e evitar que un proceso non chegue a rematar. Hai que organizar ben o traballo para evitar que a [CPU]({{site.url}}/placa/02cpu) quede sen facer nada.
 

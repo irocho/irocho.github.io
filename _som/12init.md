@@ -1,7 +1,7 @@
 ---
 layout: som
-title: Proceso init
-published: false
+title: -> Proceso init
+published: true
 ---
 
 

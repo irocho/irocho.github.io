@@ -3,9 +3,9 @@ layout: placa
 title: BIOS
 ---
 
-<img style="float: right;" alt="BIOS" height="256px"  src="/imaxes/bios.jpg">
+   <img style="float:right" height="256px"  alt="BIOS"  src="/imaxes/bios.jpg">
 
-É un chip de memoria que vén configurado de fábrica cos valores axeitados para a placa base na que está inserida. Estes parámetros poden modificarse polo usuario accediendo a un programa xusto no momento do arranque do ordenador (a este progrma tamén se lle chama bios).
+É un chip de memoria que vén configurado de fábrica cos valores axeitados para a placa base na que está inserida. Estes parámetros poden modificarse polo usuario accediendo a un programa xusto no momento do arranque do ordenador (a este programa tamén se lle chama bios).
 
 Os ordenadores modernos teñen unha versión mellorada da BIOS que se chama _EFI_ que amplía as funcións e mellora a seguridade do equipo.
 

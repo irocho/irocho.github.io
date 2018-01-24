@@ -3,7 +3,7 @@ layout: placa
 title: -> Xerarquía de Memoria
 ---
 
-<img style="float: right;" alt="xerarquía de memoria" src="/imaxes/xerarquia.png">
+   <img style="float:right" height="256px"  alt="xerarquía de memoria" src="/imaxes/xerarquia.png">
 Os datos cos que traballa o ordenador poden estar almacenados nun disco ou preparados para ser utilizados. Decidiuse clasificar por niveis os lugares nos que podemos atopar datos nun ordenador.
 
 Os lugares onde caben moi poucos datos están no cumio da imaxe. Alí arriba os rexistros, admiten á penas un dato. Nos niveis de abaixo da pirámide son os lugares nos que podemos almacenar moitos datos pero acceder a eles é moi lento para o sistema.

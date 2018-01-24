@@ -3,7 +3,7 @@ layout: planificar
 title: Tempos dos procesos
 ---
 
-<img style="float: right;" alt="tempos dos procesos" height="256px"  src="/imaxes/tempo.jpg">
+ <img width="30%" alt="tempos dos procesos"  src="/imaxes/tempo.jpg">
 O proceso chega ó sistema e pode que teña que agardar para executarse. Levarálle un chisco facer o seu cometido e remata. Imos poñerlle nome a cada un deses tempos:
 
 * _Tempo de chegada:_ o intre no que o proceso chega ó sistema.

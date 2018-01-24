@@ -4,7 +4,7 @@ title: Zócalos de memoria
 ---
 
 
-<img style="float: right;" alt="zócalos de memoria" src="/imaxes/dimm.jpg">
+   <img style="float:right" height="256px"  alt="zócalos de memoria" src="/imaxes/dimm.jpg">
 
 Son as ranuras da  placa onde se aloxan os [módulos de memoria RAM]({{site.url}}/placa/09RAM). Cada zócalo leva  unhas presillas para trincar os módulos de RAM. Nos ordenadores actuais chámanse zócalos DIMM. Todos teñen a mesma dimensión pero distinto numero de conectores:
 

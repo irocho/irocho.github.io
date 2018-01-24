@@ -14,7 +14,7 @@ os aspectos da súa execución é:
 
 > Pode estar en execución, agardando, parado,..
 
-Identificación:
+Identificación:  
 
 > Os procesos teñen cadanseu PID ou sexa un número que permite que o
     sistema operativo poda identificalo.

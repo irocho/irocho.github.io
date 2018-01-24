@@ -4,7 +4,7 @@ title: ->Memorias caché
 ---
 
 
-<img style="float: right;" alt="memorias caché" src="/imaxes/cache.jpg" width="256px">
+   <img style="float:right" height="256px"  alt="memorias caché" src="/imaxes/cache.jpg" width="256px">
 
 Están dentro do [microprocesador]({{site.url}}/placa/02CPU) e son pequenos espacios onde gardar datos durante un intre. Utilízanse como apoio para acelerar os accesos da CPU á memoria [RAM]({{site.url}}/placa/09RAM).
 

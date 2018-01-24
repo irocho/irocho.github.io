@@ -4,7 +4,7 @@ title: Sinal de reloxo
 ---
 
 
-<img style="float: right;" alt="Sinal de reloxo" height="256px"  src="/imaxes/pila.jpg">
+   <img style="float:right" height="256px"  alt="Sinal de reloxo"  src="/imaxes/pila.jpg">
 
 Orixínase nun oscilador de cuarzo que emite unha secuencia de pulsos con periodicidade exacta é de suma importancia para sincronizar as operaciones do ordenador.
 

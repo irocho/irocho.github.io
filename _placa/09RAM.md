@@ -4,7 +4,7 @@ title: ->Memoria RAM
 ---
 
 
-<img style="float: right;" alt="memoria RAM" src="/imaxes/ddr.png" width="400px">
+   <img style="float:right" height="256px"  alt="memoria RAM" src="/imaxes/ddr.png" width="400px">
 
 É a memoria principal do ordenador. Está no interior da caixa  e aloxada nos [zócalos de memoria.]({{site.url}}/placa/05zocalos)
 

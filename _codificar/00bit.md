@@ -3,7 +3,7 @@ layout: codificar
 title: Bits e bytes
 published: true
 ---
-<img style="float: right;" alt="bits" height="256px"  src="/imaxes/bit.jpg">
+   <img style="float:right" height="256px"  alt="bits" src="/imaxes/bit.jpg">
 
 Un _bit_ é a unidade mínima de información. Falamos de un/cero, on/off, prendido/apagado.
 

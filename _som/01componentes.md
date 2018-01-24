@@ -9,4 +9,4 @@ Actuando en segundo plano o sistema operativo mantén unhas táboas que lle perm
 
 Os servizos que ofrece o sistema operativo adóitanse agrupar segundo a súa funcionalidade en varias compoñentes a través dunha interface de chamadas ao sistema. Os programas poderán elixir sobre que servizo queren executar, pero non poderán misturar varios servizos á vez. Na figura  podemos ver un esquema dos servizos que ofrece o sistema operativo.
 
-<img align="center" alt="esquemas" src="/imaxes/unid.png">
+ <img align="right" alt="esquemas" src="/imaxes/unid.png">

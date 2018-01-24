@@ -1,25 +1,31 @@
 TODO cachos de código
 
-<img style="float: right;" alt="xerarquía de memoria" height="256px"  src="/imaxes/socket.jpg">
+   <img style="float:right" height="256px"  alt="xerarquía de memoria"  src="/imaxes/socket.jpg">
+
+
+
+
+
 ===============
-[   ]({{site.url}}/som/autodiagnostico)   [  ]({{site.url}}/montaxe/autco)
-{:target="_blank"}
+
+[   ]({{site.url}}/som/autodiagnostico)
+[   ]({{site.url}}/montaxe/autco){:target="_blank"}
 
 ===============
 <div align=center><!-- /.frechas -->
   {% if page.previous %}
       <a href="{{  site.baseurl }}{{  page.previous.url }}">
-          <img src="/imaxes/anterior.png" style="width:32px;height:32px;border:0;" alt="" />
+             <img style="float:right" height="256px"   src="/imaxes/anterior.png" style="width:32px;height:32px;border:0;" alt="" />
         </a>
   {% endif %}
   &nbsp;&nbsp;
   <a href="index.html">
-      <img src="/imaxes/home-xxl.png" style="width:32px;height:32px;border:0;" alt="" />
+         <img style="float:right" height="256px"   src="/imaxes/home-xxl.png" style="width:32px;height:32px;border:0;" alt="" />
     </a>
   &nbsp;&nbsp;
   {% if page.next %}
     <a href="{{  site.baseurl }}{{  page.next.url }}">
-      <img src="/imaxes/seguinte.png" style="width:32px;height:32px;border:0;" alt="" />
+         <img style="float:right" height="256px"   src="/imaxes/seguinte.png" style="width:32px;height:32px;border:0;" alt="" />
      </a>
   {% endif %}
   </div> <!-- /.frechas -->
@@ -44,7 +50,7 @@ And here is a referenced ![smile]
 {: height="36px" width="36px"}
 
 =============
-<img align="right" src="/imaxes/capas.png">
-<img style="float: right;" src="/imaxes/capas.png">
+   <img style="float:right" height="256px"   align="right" src="/imaxes/capas.png">
+   <img style="float:right" height="256px"  src="/imaxes/capas.png">
 ===============
 [autodiagnóstico POST]({{site.url}}/som/autodiagnostico)

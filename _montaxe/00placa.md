@@ -1,5 +1,5 @@
 ---
-layout: placa
+layout: montaxe
 title: Placa base
 published: true
 ---
