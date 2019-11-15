@@ -1,4 +1,4 @@
-<img style="float:right" height="128px"   src="/imaxes/logo.png" alt="" />
+<img style="float:left" height="128px"   src="/imaxes/logo.png" alt="" />
 
 A cousa naceu con [irocho.wordpress.com](http://irocho.wordpress.com) como sitio web onde acudir para propoñer traballos ós alumnos e ás alumnas.
 
