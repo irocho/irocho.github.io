@@ -1,0 +1,12 @@
+---
+layout: page
+title: js
+---
+
+<span style="color: orange"><h2>Programación en JavaScript </h2> </span>
+
+{% for js in site.js %}
+	<div class="js">
+	   <h3><a href="{{ js.url }}">{{ js.title }}</a></h3>
+	</div>
+{% endfor %}
