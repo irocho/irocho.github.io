@@ -97,7 +97,7 @@ ul.posts li {
 */
 
 
-pre code {
+ code {
   font: 2em;
   font-family: "Courier New", monospace;
   color: #52595d;
@@ -114,6 +114,7 @@ pre code {
   line-height: 1.2em;
   padding: 5px;
 }
+
 pre  {
   font: 2em;
   font-family: "Courier New", monospace;
