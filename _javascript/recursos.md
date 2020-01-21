@@ -1,6 +1,6 @@
 ---
 layout: javascript
-title: 🕯 Recursos
+title: 🕯   Recursos
 ---
  Teclear JavaScript online: 
 
