@@ -99,7 +99,7 @@ ul.posts li {
 
 pre code {
   font: 1em;
-  font-family: "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", Monaco, monospace;
+  font-family: monospace;
   color: #52595d;
   -webkit-border-radius: 5px;
   -moz-border-radius: 3px;
