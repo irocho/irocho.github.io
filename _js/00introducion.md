@@ -3,7 +3,7 @@ layout: js
 title: Introdución
 ---
 
-👋 Moito ánimo. Imos aprender un chisco de programación nesta linguaxe que é:
+ Imos aprender un chisco de programación nesta linguaxe que é:
 
 
 - interpretada
@@ -13,3 +13,6 @@ title: Introdución
 - dinámica
 - prototipada
 - ....
+
+
+👋 Moito ánimo.
