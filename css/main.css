@@ -115,9 +115,15 @@ pre code {
   margin-left: 10px;
   margin-right: 10px;
   line-height: 1.2em;
-
-
 }
+pre  {
+  font: 2em;
+  font-family: "Courier New", monospace;
+}
+
+
+
+
 
 table{
     margin-left: auto;
