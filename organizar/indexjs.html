@@ -14,6 +14,11 @@ title: i-rochiño
 </ul>
 </div><!-- /.blurb -->
 
+{% for javascript in site.javascript %}
+	<div class="javascript">
+	   <h3><a href="{{ javascript.url }}">{{ javascript.title }}</a></h3>
+	</div>
+{% endfor %}
 
 
 
