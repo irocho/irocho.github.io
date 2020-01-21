@@ -98,7 +98,6 @@ ul.posts li {
 
 pre {
   font: 2em;
-  font-family: "Courier New", monospace;
   color: #52595d;
   -webkit-border-radius: 5px;
   -moz-border-radius: 3px;
@@ -112,6 +111,8 @@ pre {
   margin-left: 10px;
   line-height: 1.2em;
   padding: 5px;
+  font-family: "Courier New", monospace;
+
 }
 
 code  {
