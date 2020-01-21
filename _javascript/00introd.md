@@ -1,5 +1,5 @@
 ---
-layout: js
+layout: javascript
 title: Que é JavaScript?
 ---
 

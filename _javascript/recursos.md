@@ -1,5 +1,5 @@
 ---
-layout: js
+layout: javascript
 title: Recursos
 ---
 #### Teclear JavaScript online: [JS Bin](https://jsbin.com/)
