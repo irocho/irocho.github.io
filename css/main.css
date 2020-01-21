@@ -96,7 +96,7 @@ ul.posts li {
 */
 
 
- code {
+pre {
   font: 2em;
   font-family: "Courier New", monospace;
   color: #52595d;
@@ -114,7 +114,7 @@ ul.posts li {
   padding: 5px;
 }
 
-pre  {
+code  {
   font: 2em;
   font-family: "Courier New", monospace;
 }
