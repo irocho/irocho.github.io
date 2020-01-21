@@ -96,7 +96,7 @@ ul.posts li {
 }
 */
 
-/*
+
  pre code {
   font: 2em;
   color: #52595d;
@@ -112,15 +112,12 @@ ul.posts li {
   margin-left: 10px;
   line-height: 1.2em;
   padding: 5px;
-  font-family: "Courier New", monospace;
-
+  font-family: 'Courier New', 'monospace';
 }
-*/
-
 
 code  {
   font: 2em;
-  font-family: "Courier New", monospace;
+  font-family: 'Courier New', 'monospace';
 }
 
 table{
