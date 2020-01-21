@@ -2,11 +2,12 @@
 layout: page
 title: JavaScript
 ---
+
 <span style="color: chocolate"><h2>Programación en JavaScript </h2> </span>
 
 
-{% for js in site.js %}
-	<div class="js">
-	   <h3><a href="{{ js.url }}">{{ js.title }}</a></h3>
+{% for javascript in site.javascript %}
+	<div class="javascript">
+	   <h3><a href="{{ javascript.url }}">{{ javascript.title }}</a></h3>
 	</div>
 {% endfor %}
