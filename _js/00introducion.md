@@ -1,6 +1,6 @@
 ---
 layout: js
-title: Introdución
+title: Que é JavaScript?
 ---
 
  Imos aprender un chisco de programación nesta linguaxe que é:
@@ -14,5 +14,3 @@ title: Introdución
 - prototipada
 - ....
 
-
-👋 Moito ánimo.

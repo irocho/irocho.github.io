@@ -4,7 +4,7 @@ title: Recursos
 ---
 #### Teclear JavaScript online: [JS Bin](https://jsbin.com/)
 
-#### Esta web é moi interesante, chea de titoriais de linguaxes de programación
+#### Esta web é moi interesante, chea de titoriais de linguaxes de programación:
 
 [Learn JavaScript Tutorial - javatpoint](https://www.javatpoint.com/javascript-tutorial)
 
@@ -14,7 +14,9 @@ title: Recursos
 
 * [Eloquent JavaScript](https://eloquentjavascript.net)
 
-#### As nosas xa usadas páxinas verdes. Neste caso non son moi alá. Mellor outros recursos: [JavaScript Tutorial](https://www.w3schools.com/js/)
+#### As nosas xa usadas páxinas verdes. Neste caso non son moi alá. Mellor outros recursos: 
+
+[JavaScript Tutorial](https://www.w3schools.com/js/)
 
 ####  As páxinas de Mozilla: 
 * [Guía de JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide)
