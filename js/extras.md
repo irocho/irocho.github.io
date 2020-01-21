@@ -24,6 +24,8 @@ Para xenerar unha páxina web con [JSDoc](https://jsdoc.app/about-getting-starte
 
 e xenerará unha carpeta chamada **out/** que terá o resultado. Tunealo xa é cousa nosa.
 
+
+
 ## 🛠 Ferramentas no navegador
 
 [What are browser developer tools?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
