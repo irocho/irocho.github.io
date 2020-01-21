@@ -1,6 +1,6 @@
 ---
 layout: javascript
-title: Que é JavaScript?
+title: ✏️ Que é JavaScript?
 ---
  Imos aprender un chisco de programación nesta linguaxe que é:
 
