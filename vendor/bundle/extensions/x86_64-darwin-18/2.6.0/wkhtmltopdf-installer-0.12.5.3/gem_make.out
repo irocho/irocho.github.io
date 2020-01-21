@@ -1,0 +1,24 @@
+current directory: /Users/bea/Documents/nube/irocho_repos/irocho.github.io/vendor/bundle/gems/wkhtmltopdf-installer-0.12.5.3/ext
+/Users/bea/.rbenv/versions/2.6.3/bin/ruby -I /Users/bea/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20200121-42647-1yzwzkj.rb extconf.rb
+
+current directory: /Users/bea/Documents/nube/irocho_repos/irocho.github.io/vendor/bundle/gems/wkhtmltopdf-installer-0.12.5.3/ext
+make "DESTDIR=" clean
+rm -rf /var/folders/rl/tnbxk3ws4kv87zgy89g8_j_r0000gn/T/d20200121-61321-kh26vk /var/folders/rl/tnbxk3ws4kv87zgy89g8_j_r0000gn/T/d20200121-61321-kh26vk/wkhtmltox.pkg
+
+current directory: /Users/bea/Documents/nube/irocho_repos/irocho.github.io/vendor/bundle/gems/wkhtmltopdf-installer-0.12.5.3/ext
+make "DESTDIR="
+mkdir -p /var/folders/rl/tnbxk3ws4kv87zgy89g8_j_r0000gn/T/d20200121-61321-kh26vk
+curl -L https://github.com/vovayartsev/wkhtmltopdf-installer-ruby/releases/download/0.12.5.3/wkhtmltox-0.12.5.3-macos_cocoa.pkg -o /var/folders/rl/tnbxk3ws4kv87zgy89g8_j_r0000gn/T/d20200121-61321-kh26vk/wkhtmltox.pkg
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   624    0   624    0     0    876      0 --:--:-- --:--:-- --:--:--   877
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 48.0M    0  101k    0     0  51180      0  0:16:24  0:00:02  0:16:22 95058  0 48.0M    0  440k    0     0   146k      0  0:05:35  0:00:03  0:05:32  213k  1 48.0M    1  984k    0     0   249k      0  0:03:17  0:00:03  0:03:14  327k  3 48.0M    3 1681k    0     0   340k      0  0:02:24  0:00:04  0:02:20  420k  5 48.0M    5 2583k    0     0   434k      0  0:01:53  0:00:05  0:01:48  515k  7 48.0M    7 3806k    0     0   546k      0  0:01:30  0:00:06  0:01:24  751k 11 48.0M   11 5422k    0     0   683k      0  0:01:12  0:00:07  0:01:05 1010k 15 48.0M   15 7479k    0     0   837k      0  0:00:58  0:00:08  0:00:50 1302k 19 48.0M   19 9705k    0     0   972k      0  0:00:50  0:00:09  0:00:41 1591k 28 48.0M   28 13.7M    0     0  1284k      0  0:00:38  0:00:10  0:00:28 2300k 37 48.0M   37 18.1M    0     0  1556k      0  0:00:31  0:00:11  0:00:20 2968k 44 48.0M   44 21.3M    0     0  1657k      0  0:00:29  0:00:13  0:00:16 3130k 51 48.0M   51 24.5M    0     0  1782k      0  0:00:27  0:00:14  0:00:13 3412k 57 48.0M   57 27.6M    0     0  1893k      0  0:00:25  0:00:14  0:00:11 3749k 61 48.0M   61 29.3M    0     0  1885k      0  0:00:26  0:00:15  0:00:11 3200k 69 48.0M   69 33.2M    0     0  2008k      0  0:00:24  0:00:16  0:00:08 3085k 75 48.0M   75 36.3M    0     0  2075k      0  0:00:23  0:00:17  0:00:06 3232k 82 48.0M   82 39.5M    0     0  2139k      0  0:00:23  0:00:18  0:00:05 3186k 88 48.0M   88 42.7M    0     0  2196k      0  0:00:22  0:00:19  0:00:03 3100k 95 48.0M   95 46.0M    0     0  2252k      0  0:00:21  0:00:20  0:00:01 3422k100 48.0M  100 48.0M    0     0  2287k      0  0:00:21  0:00:21 --:--:-- 3318k
+/usr/sbin/pkgutil --expand /var/folders/rl/tnbxk3ws4kv87zgy89g8_j_r0000gn/T/d20200121-61321-kh26vk/wkhtmltox.pkg /var/folders/rl/tnbxk3ws4kv87zgy89g8_j_r0000gn/T/d20200121-61321-kh26vk/content
+/usr/bin/tar -xf /var/folders/rl/tnbxk3ws4kv87zgy89g8_j_r0000gn/T/d20200121-61321-kh26vk/content/Payload -C /var/folders/rl/tnbxk3ws4kv87zgy89g8_j_r0000gn/T/d20200121-61321-kh26vk
+/usr/bin/tar -xzf /var/folders/rl/tnbxk3ws4kv87zgy89g8_j_r0000gn/T/d20200121-61321-kh26vk/usr/local/share/wkhtmltox-installer/wkhtmltox.tar.gz -C /var/folders/rl/tnbxk3ws4kv87zgy89g8_j_r0000gn/T/d20200121-61321-kh26vk
+
+current directory: /Users/bea/Documents/nube/irocho_repos/irocho.github.io/vendor/bundle/gems/wkhtmltopdf-installer-0.12.5.3/ext
+make "DESTDIR=" install
+mkdir -p /Users/bea/Documents/nube/irocho_repos/irocho.github.io/vendor/bundle/gems/wkhtmltopdf-installer-0.12.5.3/lib/../libexec
+cp /var/folders/rl/tnbxk3ws4kv87zgy89g8_j_r0000gn/T/d20200121-61321-kh26vk/bin/wkhtmltopdf /Users/bea/Documents/nube/irocho_repos/irocho.github.io/vendor/bundle/gems/wkhtmltopdf-installer-0.12.5.3/lib/../libexec/wkhtmltopdf
+rm -rf /var/folders/rl/tnbxk3ws4kv87zgy89g8_j_r0000gn/T/d20200121-61321-kh26vk /var/folders/rl/tnbxk3ws4kv87zgy89g8_j_r0000gn/T/d20200121-61321-kh26vk/wkhtmltox.pkg

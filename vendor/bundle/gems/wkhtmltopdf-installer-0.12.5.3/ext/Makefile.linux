@@ -1,0 +1,6 @@
+DOWNLOADED = $(TMPDIR)/wkhtmltox.deb
+BINARY = $(TMPDIR)/usr/local/bin/wkhtmltopdf
+
+unpack: tmp $(DOWNLOADED)
+	cd $(TMPDIR) && ar -x $(DOWNLOADED) && tar -xf data.tar.xz 
+

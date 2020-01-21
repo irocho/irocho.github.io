@@ -1,0 +1,17 @@
+
+.PHONY: clean unpack tmp copy
+
+$(DOWNLOADED):
+	curl -L $(URL) -o $(DOWNLOADED)
+
+clean:
+	rm -rf $(TMPDIR) $(DOWNLOADED)
+
+tmp:
+	mkdir -p $(TMPDIR)
+
+copy:
+	mkdir -p $(LIBEXEC)
+	cp $(BINARY) $(TARGET)
+
+

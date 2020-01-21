@@ -1,0 +1,1 @@
+["--host=x86_64-apple-darwin18.7.0", "--enable-static", "--disable-shared", "--without-python", "--without-readline", "--with-c14n", "--with-debug", "--with-threads", "--prefix=/Users/bea/Documents/nube/irocho_repos/irocho.github.io/vendor/bundle/gems/nokogumbo-2.0.2/ext/nokogumbo/ports/x86_64-apple-darwin18.7.0/libxml2/2.9.10"]
