@@ -2,3 +2,24 @@
 layout: page
 title: javascript
 ---
+
+<div class="blurb">
+	<h2> </h2>
+<!--
+	<ul>
+		
+		<li> <a href="/javascript">Lista de tarefas</a></p>
+
+</ul>
+</div> /.blurb -->
+<span style="color: chocolate"><h2>Lista de tarefas a realizar </h2> </span>
+
+{% for javascript in site.javascript %}
+	<div class="javascript">
+	   <h4><a href="{{ javascript.url }}">{{ javascript.title }}</a></h4>
+	</div>
+{% endfor %}
+
+
+
+<!-- FIXME se tal enlazar aquí -->
