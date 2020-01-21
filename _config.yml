@@ -30,5 +30,8 @@ collections:
   perifericos:
     output : true
     permalink : /perifericos/:path/
+  js:
+    output : true
+    permalink : /js/:path/
 
     # FIXME definir aquí a coleción: o novo apartado que vou meter
