@@ -3,16 +3,16 @@ TODO receta para cada apartado
 
 
 
-Temos dous bloques:
+Temos os bloques:
 
 * sistemas operativos
 * hardware ou montaxe
 * javascript
 
 Cada bloque ten apartados para os que hai que fabricar:
-  ->  apartado/
-  ->  _apartado/  para engadir os .md
-  ->  layout/apartado.html para escoller a pinta: cor casiña..
+  ->  apartado/ (que ten un index.html)
+  ->  _apartado/  (para engadir os .md)
+  ->  layout/apartado.html (para escoller a pinta: cor casiña..)
 
   -> Indicar de onde quero enlazalos en organizar/
   -> definir ese apartado como coleción en _config.yml
