@@ -95,6 +95,11 @@ ul.posts li {
     list-style: none;
 }
 */
+
+
+code{
+  background-color: #999;
+}
 table{
     margin-left: auto;
     margin-right: auto;
