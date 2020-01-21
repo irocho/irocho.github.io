@@ -44,11 +44,13 @@ h1 {
     font-family:'Serif';
 }
 h2 {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding-top: 1.1em;
+
 }
+
 h3{
-  color: yellow;
+  color: navy;
+  padding-top: 1.1em;
+
 }
 p {
     font-size: 1em;
