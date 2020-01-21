@@ -46,7 +46,7 @@ h1 {
 h2 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: chocolate;
-    padding-top: 2em
+    padding-top: 1.5em
 }
 h3 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -110,7 +110,6 @@ pre code {
   background-clip: padding-box;
   border: 1px solid #ccc;
   background-color: #f9f9f9;
-  padding: 10px;
   display: inline-block;
   margin-left: 10px;
   margin-right: 10px;
