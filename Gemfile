@@ -7,4 +7,3 @@ gem 'wkhtmltopdf-binary'
 gem "pdfkit"
 gem "haml"
 gem "jekyll-pandoc"
-gem "jekyll-pdf"

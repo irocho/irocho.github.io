@@ -2,7 +2,9 @@ name: i-rochiño
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 exclude: [vendor] #Travis bundles all gems in the vendor directory on its build servers, which Jekyll will mistakenly read and explode on.
-
+gems: # - jekyll-pdf    wkhtmltopdf - html to pdf converter
+  - jekyll-sitemap 
+ 
 collections:
   som:
     output : true
@@ -32,5 +34,5 @@ collections:
     output : true
     permalink : /javascript/:path/
 
-    # FIXME definir aquí a coleción: o novo apartado que vou meter gems:- jekyll-sitemap - jekyll-pdf
+    # FIXME definir aquí a coleción: o novo apartado que vou meter 
 
