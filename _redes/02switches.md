@@ -2,11 +2,6 @@
 layout: redes
 title: Switches
 ---
+[//]: # (This may be the most platform independent comment [autodiagnóstico POST.]({{site.url}}/som/05autodiagnostico))
 
-Cando se prende un ordenador cárgase parte do kernel do sistema operativo en memoria. O primeiro que se fai é comprobar que todo vaia ben; é o que se chama un [autodiagnóstico POST.]({{site.url}}/som/05autodiagnostico)
-
-asdgadf
-
-[//]: # (This may be the most platform independent comment)
-
- <img align="right" alt="esquemas" src="/imaxes/unid.png">
+Os switches traballan na capa de enlace do modelo OSI, aquela na que se falaba das tramas e dos enderezos físicos ou MACs. Cando chega unha trama a un switch provén dun equipo e entra por un dos conectores (ou portos) do switch e trae indicado nun dos campos da súa trama a MAC do equipo ao que vai dirixida. Será o switch grazas á electrónica coa que está fabricado o encargado de mandala por outro conector para que chegue a destino. 
