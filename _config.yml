@@ -33,6 +33,9 @@ collections:
   javascript:
     output : true
     permalink : /javascript/:path/
+  redes:
+    output : true
+    permalink : /redes/:path/
 
     # FIXME definir aquí a coleción: o novo apartado que vou meter 
 
