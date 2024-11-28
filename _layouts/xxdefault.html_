@@ -17,7 +17,7 @@
 	<a href="/index.html"> <img  src="/imaxes/logo.png" alt="i-rochiño" /></a>
 	<hr>
 	<nav>
-		<ul>			
+		<ul><li><a href="/organizar/indexredes.html">Redes </a></li>
 			<li><a href="/organizar/indexjs.html">JavaScript </a></li>
 			<li><a href="/organizar/indexsom.html"> Sistemas Operativos </a></li>
 			<li><a href="/organizar/indexmontaxe.html"> Hardware </a></li>
@@ -45,7 +45,7 @@
 							<a href="http://irocho.slideshare.com" class="social-icon"><i class="fa fa-slideshare fa-3x"></i></a></li>
 
 							<li>
-								<a href="https://mastodon.social/@irocho" class="social-icon"><i class="fa fa-mastodon fa-3x"></i></a></li>
+								<a href="https://mastodon.social/@irocho" class="social-icon"><i class="fa-brands fa-mastodon fa-3x"></i></a></li>
 								<li>
 									<a href="mailto:irocho.profe@gmail.com" class="social-icon"><i class="fa fa-envelope fa-3x"></i></a></li>
 									<li>
