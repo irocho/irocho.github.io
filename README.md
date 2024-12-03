@@ -1,7 +1,7 @@
 <img style="float:left" height="128px"   src="/imaxes/logo.png" alt="" />
 
 ## 2024 
-Engadimos o apartado de redes
+Engadimos o apartado de redes e seguimos currando en hardware
 
 [//]: # (This may be the most platform independent comment)
 
