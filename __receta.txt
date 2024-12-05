@@ -1,3 +1,6 @@
+ bundle exec jekyll serve
+
+
 
 Receta para cada apartado
 
@@ -17,3 +20,60 @@ Cada bloque ten apartados para os que hai que fabricar:
   -> Indicar de onde quero enlazalos en organizar/
   -> definir ese apartado como coleción en _config.yml
   -> engadilo no index.html principal
+
+
+
+ou sexa, ver  https://github.com/irocho/irocho.github.io/wiki/10-Crear-coleci%C3%B3ns:
+
+========
+Informamos ó _config.yml que imos crear unha coleción chamada apartado:
+=========
+collections:
+  apartado:
+    output : true
+    permalink : /apartado/:path/
+
+
+
+Olliño cos tabuladores!!!!
+
+=======
+Crear na carpeta _layouts/ o ficheiro _layouts/apartado.html co seguinte contido:
+==========
+---
+layout: page
+---
+<div class="apartado">
+  <h2>{{ page.title }}</h2>
+
+  <div class="blog-post spacing">
+    {{ content }}
+  </div>
+</div>
+
+==========
+Facer o índice da coleción: no directorio raíz fabrico a carpeta apartado/e meto dentro dela un index.html que será:
+===========
+---
+layout: page
+title: apartado
+---
+<span style="color: orange"><h2>Índice do novo tema </h2> </span>
+
+{% for apartado in site.apartado %}
+	<div class="apartado">
+	   <h2><a href="{{ apartado.url }}">{{ apartado.title }}</a></h2>
+	</div>
+{% endfor %}
+
+============
+Fabricar unha carpeta (con _ antes do nome) onde van ir os ficheiros, eu chameina _apartado/ Meter nela os ficheiros.md coa cabeceira:
+==============
+
+---
+layout: apartado
+title: Introdución
+published: true
+---
+
+Tal cual aquí vai o contido en markdown ou etiquetas html de cando en vez (remexido tamén cola).

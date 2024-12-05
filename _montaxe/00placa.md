@@ -5,21 +5,19 @@ published: true
 ---
 
 
-É un circuíto impreso onde se conectan todas as compoñentes necesarias para que o ordenador funcione. Normalmente as placas base están feitas por diferentes capas aislantes de fibra de vidro, sobre as que se incrustan pistas de cobre que teñen a función de unir os diferentes compoñentes da placa e permitir a intercomunicación dos mesmos. 
-
-As conexións pode ser directamente sobre a placa ou ben a traverso de conectores externos.
-
-Se comparamos placas antigas e modernas, estas últimas teñen menos compoñentes e pistas e semellan máis sinxelas e despexadas, con menos cablado. O motivo é que coa mellora da densidade de integración dos chips anda polos 14 nm. Na actualidade xa se alcanzaron litografías de 3 nm e cada vez se poden incluir máis compoñentes no mesmo espacio, e os circuitos que antes se ensamblaban en diferentes integrados agora poden ensamblarse nun único chip.
+É un circuíto impreso onde se conectan todas as compoñentes necesarias para que o ordenador funcione. Fabrícanse con diferentes capas illantes de fibra de vidro sobre as que se incrustan pistas de cobre que teñen a función de unir as diferentes compoñentes e permitir a intercomunicación entre todos. Moitos son os dispositivos <a href="/placa/index.html"> que estudamos que van directamente conectados á placa base</a>   ou ben son  <a href="/perifericos/index.html">periféricos </a> que se unen á placa por cable ou por conexións sen fíos.
 
 
-En consecuencia, compoñentes que antes se situaban na propia placa base ou no [chipset](_placa/12chipset.md) agora, nas placas base modernas poden incluirse no encapsulado do microprocesador. Un detalle importante para nos é o feito de que nas placas actuais o encapsulado do microprocesador pode integrar ao chip gráfico e máis ao controlador de memoria,
+
+<!-- As conexións pode ser directamente sobre a placa ou ben a traverso de conectores externos. -->
+
+Se comparamos placas antigas e modernas, estas últimas teñen menos compoñentes e pistas e semellan máis sinxelas e despexadas, con menos cablado. O motivo é que coa mellora da densidade de integración dos chips andan por menos de  10 nm. Na actualidade xa se alcanzaron litografías de 3 nm e cada vez se poden incluir máis compoñentes no mesmo espazo. Daquela, compoñentes que antes se situaban na propia placa base ou no [chipset]({{site.url}}/placa/12chipset) poden incluirse no encapsulado do [procesador]({{site.url}}/placa/02cpu) por exemplo un chip gráfico ou un  controlador de memoria.
 
 
-O tamaño e a forma determina o tipo de [caixa](_montaxe/30chasis.md) e as posibilidades de ampliación do hardware. Os tipos de placas máis habituais no mercado son:
 
-* ATX duns 30x24 cm
-* ITX duns 17x17 cm
 
-A meirande parte das placas constan  <a href="/placa/index.html">das seguintes partes</a> :
+O tamaño e a forma da placa determina o tipo de [caixa]({{site.url}}/montaxe/30chasis) e as posibilidades de ampliación do hardware. Os tamaños de placas máis habituais descríbense nos  chamados [factores de forma]({{site.url}}/placa/00factorforma)
+
+A meirande parte das placas constan das seguintes partes:  
 
 ![placa cos nomes]({{site.baseurl}}/imaxes/placa.jpg)

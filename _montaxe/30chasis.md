@@ -12,4 +12,6 @@ Unha das razóns para mercar unha boa caixa é permitir liberar a calor  xenerad
 
 Os materiais das caixas adoitan ser de aceiro galvanizado, de plásticos tipo metacrilato ou ben de aluminio.
 
-Outro factor a ter en conta é o número de bahías para aloxar dispositivos de almacenamento (discos duros ou unidades de DVD) e os cartóns de expansión que poidamos precisar.
+Outro detalle  é o número de bahías para aloxar dispositivos de almacenamento (discos duros ou unidades de DVD) e os cartóns de expansión que poidamos precisar.
+
+Lembrar sempre ten en conta o [factor de forma](_placa/00factorforma.md) da placa e da [fonte de alimentación](_montaxe/40alimentar.md) para non ter problemas de espazo.

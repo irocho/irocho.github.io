@@ -1,41 +1,51 @@
 name: i-rochiño
+title: i-rochiño
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 exclude: [vendor] #Travis bundles all gems in the vendor directory on its build servers, which Jekyll will mistakenly read and explode on.
-gems: # - jekyll-pdf    wkhtmltopdf - html to pdf converter
-  - jekyll-sitemap 
- 
+
+# versión antiga https://stackoverflow.com/questions/45122373/the-gems-configuration-option-has-been-renamed-to-plugins
+# gems: 
+
+plugins: # - jekyll-pdf    wkhtmltopdf - html to pdf converter 
+  - jekyll-sitemap
+# - jekyll-github-metadata
+
+
 collections:
   som:
-    output : true
-    permalink : /som/:path/
+    output: true
+    permalink: /som/:path/
   montaxe:
-    output : true
-    permalink : /montaxe/:path/
+    output: true
+    permalink: /montaxe/:path/
   planificar:
-    output : true
-    permalink : /planificar/:path/
+    output: true
+    permalink: /planificar/:path/
   entradaSaida:
-    output : true
-    permalink : /entradaSaida/:path/
+    output: true
+    permalink: /entradaSaida/:path/
   memoria:
-    output : true
-    permalink : /memoria/:path/
+    output: true
+    permalink: /memoria/:path/
   placa:
-    output : true
-    permalink : /placa/:path/
+    output: true
+    permalink: /placa/:path/
   codificar:
-    output : true
-    permalink : /codificar/:path/
+    output: true
+    permalink: /codificar/:path/
   perifericos:
-    output : true
-    permalink : /perifericos/:path/
+    output: true
+    permalink: /perifericos/:path/
   javascript:
-    output : true
-    permalink : /javascript/:path/
+    output: true
+    permalink: /javascript/:path/
   redes:
-    output : true
-    permalink : /redes/:path/
+    output: true
+    permalink: /redes/:path/
 
-    # FIXME definir aquí a coleción: o novo apartado que vou meter 
 
+# FIXME definir aquí unha nova coleción: o novo apartado que vou meter ten a pinta:
+# apartado:
+#     output : true
+#     permalink : /apartado/:path/

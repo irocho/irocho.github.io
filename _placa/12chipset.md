@@ -2,8 +2,6 @@
 layout: placa
 title: Chipset
 ---
-
-
    <img style="float:right" height="256px"  alt="ponte norte"  src="/imaxes/chipsetnorte.jpg">
 
 Serve de apoio ó microprocesador no control das compoñentes da placa base. Abrangue os dous circuítos máis importantes da placa:
