@@ -16,8 +16,10 @@ Para comunicarse cos [periféricos]({{site.url}}/perifericos/1per) son moitos os
   - DVI transmite os datos dixitalizados
   - HDMI permite o envío de audio e vídeo de alta definición
 
-![conectores externos]({{site.url}}/imaxes/conectores_externos.png)
+![conectores externos]({{site.url}}/imaxes/conectores_externos.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 As placas máis modernas traen outro tipo de conectores:
 
-![placa ROG moderna]({{site.url}}/imaxes/ROG.png)
+![placa ROG moderna]({{site.url}}/imaxes/ROG.png){:style="display:block; margin-left:auto; margin-right:auto"}
+
+![alt text](../imaxes/conectores.png){:style="display:block; margin-left:auto; margin-right:auto"}

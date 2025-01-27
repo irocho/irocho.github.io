@@ -1,7 +1,7 @@
 TODO cachos de código
 
-[   ]({{site.url}}/som/autodiagnostico)
-[   ]({{site.url}}/montaxe/autco){:target="_blank"}
+[ auto  ]({{site.url}}/som/autodiagnostico)
+[ nova páxina  ]({{site.url}}/montaxe/autco){:target="_blank"}
 
 ===============
 
