@@ -1,6 +1,6 @@
 ---
-layout: placa
-title: -> Rexistros
+layout: procesador
+title: Rexistros
 ---
 
 
@@ -9,4 +9,4 @@ title: -> Rexistros
 
 Son pequenas casiñas de memoria que dan para gardar a penas un dato, accédese ós seus datos a moi alta velocidade e utilízanse para o almacenalos mentres se está traballando con eles.
 
-Atópanse na [unidade de control ]({{site.url}}/placa/04UC)  e na [ALU]({{site.url}}/placa/03ALU).
+Atópanse na [unidade de control ]({{site.url}}/procesador/04UC)  e na [ALU]({{site.url}}/procesador/03ALU).

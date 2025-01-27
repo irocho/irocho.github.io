@@ -3,9 +3,8 @@ TODO cachos de código
    <img style="float:right" height="256px"  alt="xerarquía de memoria"  src="/imaxes/socket.jpg">
 
 
-
-
-
+![Exemplo de imaxe centrada]({{site.baseurl}}/imaxes/cable-optico.png){:style="display:block; margin-left:auto; margin-right:auto"}
+ 
 ===============
 
 [   ]({{site.url}}/som/autodiagnostico)
@@ -50,7 +49,17 @@ And here is a referenced ![smile]
 {: height="36px" width="36px"}
 
 =============
+
+
+=============
+
+
+
+=============
    <img style="float:right" height="256px"   align="right" src="/imaxes/capas.png">
    <img style="float:right" height="256px"  src="/imaxes/capas.png">
 ===============
 [autodiagnóstico POST]({{site.url}}/som/autodiagnostico)
+
+
+

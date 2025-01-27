@@ -1,5 +1,5 @@
 ---
-layout: placa
+layout: memoria
 title: Memorias
 ---
 
@@ -13,4 +13,4 @@ Definimos dous tipos de operacións que se poden realizar sobre calquera memoria
 
 Durante o tempo que se realiza unha lectura ou escritura a memoria non esta disponible para ningunha outra operación.
 
-Os sistemas de almacenamento teñen en conta o rápido ou lento que necesitemos mover os datos e organízanse nunha distribución denominada [xerarquia de memorias]({{site.url}}/placa/07xerarquiaMemoria).
+Os sistemas de almacenamento teñen en conta o rápido ou lento que necesitemos mover os datos e organízanse nunha distribución denominada [xerarquia de memorias]({{site.url}}/memoria/07xerarquiaMemoria).

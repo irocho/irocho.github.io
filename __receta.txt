@@ -15,7 +15,7 @@ Cada bloque ten apartados para os que hai que fabricar:
   ->  apartado/ (que ten un index.html)
   ->  _apartado/  (para engadir os .md)
   ->  layout/apartado.html (para escoller a pinta: cor casiña..)
-  -> layaout/default.html para a barra de navegación
+  -> layout/default.html para a barra de navegación
 
   -> Indicar de onde quero enlazalos en organizar/
   -> definir ese apartado como coleción en _config.yml

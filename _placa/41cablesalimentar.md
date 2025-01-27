@@ -1,6 +1,6 @@
 ---
 layout: montaxe
-title: -> Cables de alimentación
+title: Cables de alimentación
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: memoria
-title: -> Memoria virtual
+title: Memoria virtual
 ---
 
 En todas as técnicas de asignación de memoria supoñemos que os procesos están cargados na RAM. Cando un proceso é tan grande que non cabe en memoria o sistema operativo empregará o disco duro -se ten espazo libre- como se fora unha parte da RAM. A esta parte do disco duro que pasa a utilizarse como se fora unha parte da RAM chámaselle _memoria virtual_.

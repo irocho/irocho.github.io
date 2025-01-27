@@ -10,10 +10,10 @@ Unha técnica posible é facer particións de tamaño fixas, é dicir dividir a 
 Poderíamos traballar con particións de tamaño variable pero a pega é que complicamos a xestión de memoria: temos que levar conta da partición que asignamos a un proceso e tamén do seu tamaño.
 Outras posibilidades son:
 
--[Paxinación]({{site.url}}../25paxinar)
++ [Paxinación]({{site.url}}/memoria/25paxinar)
 
--[Segmentación]({{site.url}}../26segmentar)
++ [Segmentación]({{site.url}}/memoria/26segmentar)
 
--[Memoria virtual]({{site.url}}../27virtual)
++ [Memoria virtual]({{site.url}}/memoria/27virtual)
 
--[Swapping]({{site.url}}../28swapp)
++ [Swapping]({{site.url}}/memoria/28swapp)

@@ -17,3 +17,7 @@ Para comunicarse cos [periféricos]({{site.url}}/perifericos/1per) son moitos os
   - HDMI permite o envío de audio e vídeo de alta definición
 
 ![conectores externos]({{site.url}}/imaxes/conectores_externos.png)
+
+As placas máis modernas traen outro tipo de conectores:
+
+![placa ROG moderna]({{site.url}}/imaxes/ROG.png)

@@ -1,0 +1,11 @@
+---
+layout: page
+title: procesador
+---
+<span style="color: green"><h2>Procesador </h2> </span>
+
+{% for procesador in site.procesador %}
+	<div class="procesador">
+	   <h3><a href="{{ procesador.url }}">{{ procesador.title }}</a></h3>
+	</div>
+{% endfor %}

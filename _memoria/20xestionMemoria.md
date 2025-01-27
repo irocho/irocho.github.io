@@ -1,11 +1,11 @@
 ---
 layout: memoria
 title: Xestión de memoria
----
+--- 
 
 Todos os ordenadores contan cunha memoria principal chamada RAM e unha memoria secundaria que normalmente é o disco duro. Os programas están almacenados no disco duro e cando os executamos pasan a ser [procesos]({{site.url}}/som/10procesos) que ocupan posicións de memoria na  RAM.
 
-A memoria RAM pódese considerar algo así como unha rella con casiñas nas que se poden meter datos. Cada casiña ten cadansúa coordenada para indicar a súa posición: son os enderezos de memoria. Diremos que un proceso comeza nun determinado enderezo (indícase con números en hexadecimal) e ocupa tanta memoria.
+[A memoria RAM]({{site.url}}/memoria/09RAM) pódese considerar algo así como unha rella con casiñas nas que se poden meter datos. Cada casiña ten cadansúa coordenada para indicar a súa posición: son os nomeados enderezos de memoria (que se indican con números en hexadecimal). Diremos que un proceso comeza nun determinado enderezo e ocupa tanta memoria.
 
 A xestión de memoria é unha das funcións máis importantes dun sistema operativo. O _administrador de memoria_ leva un rexistro das partes de memoria que se están utilizando e das que non. Encárgase de reservar memoria para os procesos novos e libera espazo para os que finalizan.
 

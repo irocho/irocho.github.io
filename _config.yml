@@ -28,6 +28,9 @@ collections:
   memoria:
     output: true
     permalink: /memoria/:path/
+  procesador:
+    output: true
+    permalink: /procesador/:path/
   placa:
     output: true
     permalink: /placa/:path/

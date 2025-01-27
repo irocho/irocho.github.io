@@ -14,4 +14,4 @@ Os materiais das caixas adoitan ser de aceiro galvanizado, de plásticos tipo me
 
 Outro detalle  é o número de bahías para aloxar dispositivos de almacenamento (discos duros ou unidades de DVD) e os cartóns de expansión que poidamos precisar.
 
-Lembrar sempre ten en conta o [factor de forma](_placa/00factorforma.md) da placa e da [fonte de alimentación](_montaxe/40alimentar.md) para non ter problemas de espazo.
+Lembrar sempre ten en conta o [factor de forma]({{site.url}}/placa/01factorforma) da placa e da [fonte de alimentación]({{site.url}}/montaxe/40alimentar) para non ter problemas de espazo.
