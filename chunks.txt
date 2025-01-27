@@ -1,5 +1,11 @@
 TODO cachos de código
 
+[   ]({{site.url}}/som/autodiagnostico)
+[   ]({{site.url}}/montaxe/autco){:target="_blank"}
+
+===============
+
+
    <img style="float:right" height="256px"  alt="xerarquía de memoria"  src="/imaxes/socket.jpg">
 
 
@@ -7,10 +13,7 @@ TODO cachos de código
  
 ===============
 
-[   ]({{site.url}}/som/autodiagnostico)
-[   ]({{site.url}}/montaxe/autco){:target="_blank"}
 
-===============
 <div align=center><!-- /.frechas -->
   {% if page.previous %}
       <a href="{{  site.baseurl }}{{  page.previous.url }}">
