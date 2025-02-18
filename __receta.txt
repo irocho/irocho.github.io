@@ -1,8 +1,9 @@
- bundle exec jekyll serve
+``` 
+bundle exec jekyll serve
+```
 
 
-
-Receta para cada apartado
+# Receta para cada apartado
 
 Temos os bloques:
 
@@ -10,6 +11,7 @@ Temos os bloques:
 * hardware ou montaxe
 * javascript
 * redes
+* python
 
 Cada bloque ten apartados para os que hai que fabricar:
   ->  apartado/ (que ten un index.html)
@@ -26,7 +28,7 @@ Cada bloque ten apartados para os que hai que fabricar:
 ou sexa, ver  https://github.com/irocho/irocho.github.io/wiki/10-Crear-coleci%C3%B3ns:
 
 ========
-Informamos ó _config.yml que imos crear unha coleción chamada apartado:
+Informamos ao _config.yml que imos crear unha coleción chamada apartado:
 =========
 collections:
   apartado:
@@ -52,7 +54,7 @@ layout: page
 </div>
 
 ==========
-Facer o índice da coleción: no directorio raíz fabrico a carpeta apartado/e meto dentro dela un index.html que será:
+Facer o índice da coleción: no directorio raíz fabrico a carpeta apartado/  e meto dentro dela un index.html que será:
 ===========
 ---
 layout: page

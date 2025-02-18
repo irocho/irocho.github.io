@@ -1,0 +1,15 @@
+---
+layout: page
+title: python
+---
+<span style="color: chocolate"><h2>Lista de tarefas a realizar </h2> </span>
+
+{% for python in site.python %}
+	<div class="python">
+	  <a href="{{ python.url }}">{{ python.title }}</a>
+	</div>
+{% endfor %}
+
+
+
+<!-- FIXME se tal enlazar aquí -->

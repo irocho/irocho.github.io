@@ -22,4 +22,3 @@ As placas máis modernas traen outro tipo de conectores:
 
 ![placa ROG moderna]({{site.url}}/imaxes/ROG.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
-![alt text](../imaxes/conectores.png){:style="display:block; margin-left:auto; margin-right:auto"}

@@ -13,5 +13,5 @@ Destacaremos dous tipos de discos:
 * Discos duros, son dispositivos mecánicos
 * _NVMe_ son un sistema de almacenamento máis moderno. Non é mecánico xa que é  un conxunto de chips que gardan os datos. Dise que son dispositivos SSD é dicir, de _estado sólido_
 
-![Disco SSD](../imaxes/nvme.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
+![Disco SSD]({{site.baseurl}}/imaxes/nvme.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
  

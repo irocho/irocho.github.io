@@ -10,7 +10,7 @@ TODO cachos de código
    <img style="float:right" height="256px"  alt="xerarquía de memoria"  src="/imaxes/socket.jpg">
 
 
-![Exemplo de imaxe centrada]({{site.baseurl}}/imaxes/cable-optico.png){:style="display:block; margin-left:auto; margin-right:auto"}
+![centrada]({{site.baseurl}}/imaxes/XXXXX.png){:style="display:block; margin-left:auto; margin-right:auto"}
  
 ===============
 

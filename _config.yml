@@ -43,6 +43,9 @@ collections:
   javascript:
     output: true
     permalink: /javascript/:path/
+  python:
+    output: true
+    permalink: /python/:path/
   redes:
     output: true
     permalink: /redes/:path/
