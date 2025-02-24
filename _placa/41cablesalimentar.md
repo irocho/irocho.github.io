@@ -2,8 +2,6 @@
 layout: montaxe
 title: Cables de alimentación
 ---
-
-
    <img style="float:right" height="256px"  alt="Cables de alimentación" height="128px"  src="/imaxes/satapcie.jpg">
 
 Os cables procedentes da [fonte de alimentación]({{site.url}}/montaxe/40alimentar) máis usados actualmente son:
