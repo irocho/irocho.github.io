@@ -4,24 +4,24 @@ title: Autodiagnóstico POST
 ---
 
 
-Cando arranca un ordenador faise unha comprobación do sistema chamada autodiagnóstico POST (power-on self-test).
+Cando arranca un ordenador faise unha comprobación do sistema chamada *autodiagnóstico POST* (Power-On Self-Test).
 
-O primeiro que se fai é  recoñecer se a CPU está funcionando, a memoria, as unidades de disco e calquera outro dispositivo conectado, sexa o teclado, o rato ou a impresora. Verifícase que no existan erros de conexión e que todos os dispositivos estean preparados para traballar coordenadmente.
+O primeiro que se fai é  recoñecer se a CPU está funcionando, a memoria, as unidades de disco e calquera outro dispositivo conectado, sexa o teclado, o rato ou a impresora. Verifícase que non existan erros de conexión e que todos os dispositivos estean preparados para traballar coordenadamente.
+
+<img style="float: right;" width="30%" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/POST_card_98usd.jpg"/>
+
+Na placa base do ordenador existe un chip que se chama en xeral BIOS (aínda que  as modernas son  EFI ou UEFI) que ten un software moi simple que vai comprobando todo e mostrando en pantalla o resultado desa verificación.
+
+Se modificamos o hardware, por exemplo desexamos que arranque o ordenador dende  un USB ou outro disco duro, daquela indicarémosllo ao  programa da UEFI. Xusto cando prendemos o ordenador e antes do arranque do sistema operativo, cada fabricante configura as teclas que cómpre usar para acceder ao programa da BIOS.
 
 
 
- <img alt="placa" src="http://www.howtogeek.com/wp-content/uploads/2011/03/650x300xbanner11.png.pagespeed.gp+jp+jw+pj+js+rj+rp+rw+ri+cp+md.ic.ArQADmzm7i.png"/>
- 
- Na placa base do ordenador existe un dispositivo que se chama [BIOS](http://www.tiendasinformatica.info/wiki/bios.html) (ou as modernas EFI ou UEFI) que ten un software moi simple que vai comprobando todo e mostrando en pantalla o resultado desa verificación.
-
-Se algo falla o ordenador lanza un aviso que pode ser sonoro. [Nesta páxina](http://www.computerhope.com/beep.htm) e
+Se algo falla o ordenador lanza un aviso que pode ser sonoro. [Nesta páxina en inglés](http://www.computerhope.com/beep.htm) e
 [nesta en castelán](http://www.itespresso.es/interpreta-los-sonidos-de-la-placa-base-37461.html)
-indícanse o significado que teñen os  pitidos dalgunhas placas cando algo vai mal.
-
-Se queremos modificar calquera parámetro de hardware, por exemplo que arranque o ordenador dende outro disco duro daquela usaremos un programa chamado *Setup.* Xusto cando prendemos o ordenador, antes do arranque do sistema cada fabricante configura as teclas que cómpre usar para acceder ó *Setup*.
-
- <img style="float: right;" width="30%" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/POST_card_98usd.jpg"/>
-No mercado podemos mercar uns cartóns de expansión que se instalan na placa e mostran códigos de posibles erros no arranque do sistema.
+indícanse o significado que teñen os  pitidos dalgunhas placas cando algo vai mal. Algunhas  placas modernas [indican os erros con LED.](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fez-debug-led-red-cpu-orange-dram-v0-yhpedcve2pfa1.jpg%3Fauto%3Dwebp%26s%3D9b9dafaae092e8aa3830c4d6209c508096a359cc) 
 
 
-Se todo vai ben o sistema operativo cárgase en memoria e permanece alí. O usuario xa pode interacionar con el para acceder ós recursos da máquina grazas a que actúa en segundo plano. Só deixa de executarse cando se apaga o ordenador.
+No mercado podemos mercar uns cartóns de expansión que se instalan na placa e mostran códigos de posibles erros no arranque do sistema. Un exemplo é o da foto.
+
+
+Se todo vai ben continúa o proceso de arranque ata que o sistema operativo se carga en memoria e permanece alí. O usuario xa pode interacionar con el  grazas a que actúa en segundo plano. Só deixa de executarse cando se apaga o ordenador.
