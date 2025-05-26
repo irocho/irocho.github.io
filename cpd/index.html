@@ -1,0 +1,11 @@
+---
+layout: page
+title: cpd
+---
+<span style="color: green"><h2>Nun CPD: </h2> </span>
+
+{% for cpd in site.cpd %}
+	<div class="placa">
+	   <h4><li><a href="{{ cpd.url }}">{{ cpd.title }}</a></li></h4>
+	</div>
+{% endfor %}
