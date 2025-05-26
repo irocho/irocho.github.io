@@ -1,3 +1,10 @@
+---
+layout: cpd
+title: Centro de Proceso de Datos
+published: true
+---
+
+
 # CPD dun hospital
 
 ![Entrada](./fotos/porta.jpg)
