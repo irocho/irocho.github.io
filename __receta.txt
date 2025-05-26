@@ -12,6 +12,7 @@ Temos os bloques:
 * javascript
 * redes
 * python
+* cpd
 
 Cada bloque ten apartados para os que hai que fabricar:
   ->  apartado/ (que ten un index.html)

@@ -49,6 +49,9 @@ collections:
   redes:
     output: true
     permalink: /redes/:path/
+  cpd:
+    output: true
+    permalink: /cpd/:path/
 
 
 # FIXME definir aquí unha nova coleción: o novo apartado que vou meter ten a pinta:
