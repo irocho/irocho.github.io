@@ -1,18 +1,18 @@
 ---
 layout: cpd
-title: SAI
+title: Sistema de alimentación ininterrumpida
 published: true
 ---
 
-### Sistema de alimentación ininterrumpida
-
 Entre os elementos fundamentais dun CPD están os SAI.
 
-SAI con baterías noutro armario:
-![SAI con baterías ]({{site.baseurl}}/fotos/SAI-1.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
+### SAI con baterías noutro armario:
 
- Dous SAIs
-![ Dous SAIs ]({{site.baseurl}}/fotos/SAI-2.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
+![SAI con baterías ]({{site.baseurl}}/fotos/SAI-1.jpg){:width="250"}
+
+### Dous SAIs con cadansúa batería:
+
+![ Dous SAIs ]({{site.baseurl}}/fotos/SAI-2.jpg){:width="250"}
 
  
 

@@ -5,35 +5,26 @@ published: true
 ---
 
 
-## CPD dun hospital
 
-![Entrada]({{site.baseurl}}/fotos/porta.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
-
+![Entrada]({{site.baseurl}}/fotos/porta.jpg){:width="250"}
 
 
 
-* Routers
+### Routers
 
  Conexión aos routers:
-![ Conexión aos routers ]({{site.baseurl}}/fotos/router.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
+
+![ Conexión aos routers ]({{site.baseurl}}/fotos/router.jpg){:width="250"}
 
 Router Huawei:
-![Router Huawei ]({{site.baseurl}}/fotos/HuaweiRouter.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
+
+![Router Huawei ]({{site.baseurl}}/fotos/HuaweiRouter.jpg){:width="250"}
 
 
 
-* Telefonía
+### Telefonía
 
  Repartidor de servizos de telefonía:
-![ Repartidor de servizos de telefonía ]({{site.baseurl}}/fotos/telefonia.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 
+![ Repartidor de servizos de telefonía ]({{site.baseurl}}/fotos/telefonia.jpg){:width="250"}
 
-* Servidores de almacenamento
-
-Organización dos discos de almacenamento nun rack:
-![Organización dos discos de almacenamento nun rack ]({{site.baseurl}}/fotos/servAlmacenamento.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
-
-* Servidor de telemetría
-
-Control da telemetría do sistema:
-![Control da telemetría do sistema ]({{site.baseurl}}/fotos/servTelemetria.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
