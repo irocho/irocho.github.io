@@ -3,6 +3,16 @@ bundle exec jekyll serve
 ```
 ou abaixiño á esquerda `Jekyll Run`
 
+# imaxes
+
+![Entrada]({{site.baseurl}}/fotos/porta.jpg){:width="250"}
+
+Deixarse de coña e html: 
+<img style="float:left"  alt=" sai" src="/fotos/SAI.jpg" height="256px"><br>
+<img   alt="sai" src="/fotos/SAI.jpg" height="256px"><br>
+
+
+
 # Receta para cada apartado
 
 Temos os bloques:

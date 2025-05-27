@@ -7,9 +7,9 @@ published: true
 
 ### Organización do cableado nun patch panel:
 
-![ Organización do cableado nun patch panel  ]({{site.baseurl}}/fotos/patchPanel.jpg){:width="250"}
+<img   alt="pp" src="/burela/patchPanel.jpg" height="256px">
 
 
 ### Detalle do etiquetado dos cables:
 
-![ Detalle do etiquetado dos cables]({{site.baseurl}}/fotos/patchPanelCoax.jpg){:width="250"}
+<img   alt="patchPanelCoax" src="/burela/patchPanelCoax.jpg" height="256px">

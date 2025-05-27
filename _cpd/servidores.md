@@ -10,10 +10,11 @@ published: true
 
 Organización dos discos de almacenamento nun rack:
 
-![Organización dos discos de almacenamento nun rack ]({{site.baseurl}}/fotos/servAlmacenamento.jpg){:width="250"}
+<img   alt="servAlmacenamento" src="/burela/servAlmacenamento.jpg" height="256px">
+
 
 ### Servidor de telemetría
 
 Control da telemetría do sistema:
 
-![Control da telemetría do sistema ]({{site.baseurl}}/fotos/servTelemetria.jpg){:width="250"}
+<img   alt="servTelemetria" src="/burela/servTelemetria.jpg" height="256px">
