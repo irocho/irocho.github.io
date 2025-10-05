@@ -1,7 +1,7 @@
 ``` 
 bundle exec jekyll serve
 ```
-ou abaixiño á esquerda `Jekyll Run`
+ou abaixiño á esquerda `Jekyll Run` estando en VSCode
 
 # imaxes
 
