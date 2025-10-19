@@ -12,7 +12,6 @@ Plugin para SublimeText que permite documentar o código
 [spadgos/sublime-jsdocs](https://github.com/spadgos/sublime-jsdocs)
 
 
-
 Para xenerar unha páxina web con [JSDoc](https://jsdoc.app/about-getting-started.html#generating-a-website) cómpre teclear no terminal, dentro da carpeta do *.js*
 
 ```
@@ -27,3 +26,8 @@ e xenerará unha carpeta chamada **out/** que terá o resultado. Tunealo xa é c
 [What are browser developer tools?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
 
 Ferramentas no navegador: editor, depurador,..
+
+
+### 🛠 Historia de JavaScript
+
+https://dl.acm.org/doi/pdf/10.1145/3386327
