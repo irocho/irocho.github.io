@@ -28,6 +28,4 @@ e xenerará unha carpeta chamada **out/** que terá o resultado. Tunealo xa é c
 Ferramentas no navegador: editor, depurador,..
 
 
-### 🛠 Historia de JavaScript
-
-https://dl.acm.org/doi/pdf/10.1145/3386327
+###  📖 [Historia de JavaScript](https://dl.acm.org/doi/pdf/10.1145/3386327)
